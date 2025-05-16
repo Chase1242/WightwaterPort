@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "4fa52c3e219762c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "04de7c76cf1ec6b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c31ddb57897fb81",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Maps/Wightwater_Port_Crest.png"
+              },
+              "icon": "lucide-image",
+              "title": "Wightwater_Port_Crest"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1623f968b79cd1f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd53abfeed35920b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "147d597dcc74e3d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e110f51cf7187612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6455228425633c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e958304fc5566f9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "373e6a7f53844041",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4485fe5a23ba97be",
+    "type": "split",
+    "children": [
+      {
+        "id": "91eaaf8f2aecac38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f36ed4698372d62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DM Notes/Story beats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Story beats"
+            }
+          },
+          {
+            "id": "a5d135e0c7372d5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DM Notes/Story beats.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Story beats"
+            }
+          },
+          {
+            "id": "ae6c60bdb15fc08c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2885d1e6ee8be517",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DM Notes/Story beats.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Story beats"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5c31ddb57897fb81",
+  "lastOpenFiles": [
+    "Maps/Wightwater_Port.png",
+    "DM Notes/Story beats.md",
+    "Adventurer's Guild/Adventuring Parties.md",
+    "Cities/Wightwater.md",
+    "Quests/Act 1 Quests/Coins, Jewelry, and Injury.md",
+    "Districts/The Slums.md",
+    "Points of Interest/Central Guardhouse.md",
+    "Points of Interest/Wight's Porthouse.md",
+    "Points of Interest/Love's Landing.md",
+    "Points of Interest/Adventurer's Guild.md",
+    "NPCs/White Mask.md",
+    "Points of Interest/Blackrock Prison.md",
+    "Taverns/Dick's Halfway Inn.md",
+    "Organizations/Guilds.md",
+    "Adventurer's Guild/Notable Guild Members.md",
+    "Organizations/Council of Wightwater.md",
+    "Quests/Act 1 Quests",
+    "NPCs/High Mage Radelia Qinqen.md",
+    "NPCs/Sagillus Wightwater.md",
+    "World/Yttria.md",
+    "World",
+    "Countries/Ebros.md",
+    "Cities",
+    "Countries",
+    "Districts/Port District.md",
+    "Districts/Amberwood Gate.md",
+    "Districts/White Road.md",
+    "Districts/Fresh Market.md",
+    "Districts/Sorrowwind.md",
+    "Districts/River's Edge.md",
+    "Quests",
+    "Organizations",
+    "DM Notes",
+    "NPCs",
+    "PCs",
+    "Adventurer's Guild"
+  ]
+}

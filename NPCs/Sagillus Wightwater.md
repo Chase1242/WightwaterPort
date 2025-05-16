@@ -1,0 +1,7 @@
+Sagillus Wightwater was a famous adventurer back in his day. He was famous, first and foremost, founding the city named after him, after being sent by the country of [[Ebros]] to explore the uninhabited area of [[Yttria]], where the party now stands. He (and [[High Mage Radelia Qinqen|Radelia]]) worked to  map the land, find resources, and much more, finding and conquering many challenges along the way. They both grew quite strong, relying on each other for safety and comfort.
+
+Eventually, coming upon the ocean, they were doing regular measurements, and determined that the water was very deep next to the land; a prime area to place a large port city with a large river into the heart of the land.
+
+The then-current monarch of Ebros, a wise ruler regarded highly by many historians, marked the city with the name of Sagillus, not only because of the scouting down, but by the magical threats they neutralized while travelling to the harbor. This allowed more general settlement of Yttria, allowing Ebros to add more land and resources to it's rule. Radelia, knowing she lived much longer than Sagillus, knew her legacy and skills could make a legacy for herself, not tied to Sagillus, thus the name of the city - [[Wightwater]].
+
+His body was said to be buried by Radelia herself, with a ceremonial coffin on display in the [[Council of Wightwater|Council of Wightwater's]] building.
