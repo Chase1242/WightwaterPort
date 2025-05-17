@@ -11,12 +11,14 @@
             "id": "5c31ddb57897fb81",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Maps/Wightwater_Port_Crest.png"
+                "file": "Cities/Wightwater.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Wightwater_Port_Crest"
+              "icon": "lucide-file",
+              "title": "Wightwater"
             }
           }
         ]
@@ -184,25 +186,30 @@
   },
   "active": "5c31ddb57897fb81",
   "lastOpenFiles": [
-    "Maps/Wightwater_Port.png",
-    "DM Notes/Story beats.md",
-    "Adventurer's Guild/Adventuring Parties.md",
+    "Maps/Unconfirmed 5865.crdownload",
     "Cities/Wightwater.md",
+    "DM Notes/Story beats.md",
+    "NPCs/Sagillus Wightwater.md",
+    "NPCs/High Mage Radelia Qinqen.md",
+    "Countries/Kingdom of Blou Gral.md",
+    "NPCs/Titivilus.md",
+    "World/Qinqen River.md",
+    "NPCs/White Mask.md",
+    "Maps/Wightwater_Port_Crest.png",
+    "Maps/Wightwater_Port.png",
+    "Adventurer's Guild/Adventuring Parties.md",
     "Quests/Act 1 Quests/Coins, Jewelry, and Injury.md",
     "Districts/The Slums.md",
     "Points of Interest/Central Guardhouse.md",
     "Points of Interest/Wight's Porthouse.md",
     "Points of Interest/Love's Landing.md",
     "Points of Interest/Adventurer's Guild.md",
-    "NPCs/White Mask.md",
     "Points of Interest/Blackrock Prison.md",
     "Taverns/Dick's Halfway Inn.md",
     "Organizations/Guilds.md",
     "Adventurer's Guild/Notable Guild Members.md",
     "Organizations/Council of Wightwater.md",
     "Quests/Act 1 Quests",
-    "NPCs/High Mage Radelia Qinqen.md",
-    "NPCs/Sagillus Wightwater.md",
     "World/Yttria.md",
     "World",
     "Countries/Ebros.md",
@@ -211,9 +218,6 @@
     "Districts/Port District.md",
     "Districts/Amberwood Gate.md",
     "Districts/White Road.md",
-    "Districts/Fresh Market.md",
-    "Districts/Sorrowwind.md",
-    "Districts/River's Edge.md",
     "Quests",
     "Organizations",
     "DM Notes",

@@ -57,10 +57,8 @@ All while this is happening, there are reports of a war on the distant edge of t
 - Other adventuring parties are visited by the [[White Mask|White Masks]] as well.
 - The white masks is what controls the person, and once it is on they must make wisdom saves to stop from being enchanted
 - Originally, when sent to explore, Sagillus, Radelia, and a couple others were out on a mission (with other adventuring parties) to explore the wilderness and find the source of the elementals on the plane. 
-	- The elementals don't allow a fair chunk of land to be settled in
+	- The elementals don't allow a fair chunk of land to be settled in ([[Yttria]])
 	- Eventually, they find a mountain-like Earth elemental that guards the rip between the planes, and close it after dispersing of it
-	- The earth elemental disappears, leaving the harbor in it's wake
-	- With Sagillus struck down and a flood of every elemental coming through, she 
 - Titivilus, a cunning, scheming devil, seeing the latent power within Radelia, knew she would be prime to push over the edge to make a favorable deal
 	- He starts whispering in her ear from the moment she leaves the capital of [[Ebros]], a few words while she meditates her and a few there, to sow doubt and push her to the edge.
 	- Titivilus would also orchestrate a raiding of the elemental planes to shove them through the portal to make Radelia's despair overwhelming.
@@ -68,3 +66,5 @@ All while this is happening, there are reports of a war on the distant edge of t
 	- Time slows, comes to a halt, and Titivilus (who is disguised to not look so devil-like) walks through and offers her power to scour the elementals away and close the portal (along with let's say, a 2 level increase) in return for a lock of her hair and the promise to see Titivilus in the future for an "appropriate sacrifice"
 - Party encounters a white mask having just killed another adventuring party
 - Party encounters that same party as white masks?
+- **The River Qinqen:**  
+	- Maybe the magical runoff from the machine is slowly polluting or corrupting the river. Eventually, even ghosts or spirits are seen floating upstream.
