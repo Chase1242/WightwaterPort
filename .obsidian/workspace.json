@@ -186,14 +186,15 @@
   },
   "active": "5c31ddb57897fb81",
   "lastOpenFiles": [
-    "Maps/Unconfirmed 5865.crdownload",
     "Cities/Wightwater.md",
+    "Taverns/Dick's Halfway Inn.md",
+    "World/Qinqen River.md",
+    "Maps/Unconfirmed 5865.crdownload",
     "DM Notes/Story beats.md",
     "NPCs/Sagillus Wightwater.md",
     "NPCs/High Mage Radelia Qinqen.md",
     "Countries/Kingdom of Blou Gral.md",
     "NPCs/Titivilus.md",
-    "World/Qinqen River.md",
     "NPCs/White Mask.md",
     "Maps/Wightwater_Port_Crest.png",
     "Maps/Wightwater_Port.png",
@@ -205,7 +206,6 @@
     "Points of Interest/Love's Landing.md",
     "Points of Interest/Adventurer's Guild.md",
     "Points of Interest/Blackrock Prison.md",
-    "Taverns/Dick's Halfway Inn.md",
     "Organizations/Guilds.md",
     "Adventurer's Guild/Notable Guild Members.md",
     "Organizations/Council of Wightwater.md",
@@ -222,7 +222,6 @@
     "Organizations",
     "DM Notes",
     "NPCs",
-    "PCs",
-    "Adventurer's Guild"
+    "PCs"
   ]
 }
