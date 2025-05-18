@@ -1,5 +1,10 @@
 # High level (levels 13+)
 ## The Fire Opals (level 20)
+- Serin Falkov
+- Cuh Ronk
+- Yarris Goldhorn
+- Balasar Daardendrian
+- Amkala Gem OnyxCutter
 
 ## The Order of the Burning Oak (level 15)
 
