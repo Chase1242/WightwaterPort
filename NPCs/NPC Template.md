@@ -17,19 +17,15 @@
 ---
 ## Core Backstory
 - 
-
 ---
 
 ## Current Plotlines
 
 - 
-
 ---
-
 ## Themes
 
 - 
-
 ## Backstory
 
 ## Timeline

@@ -1,8 +1,12 @@
 - **Race**: [Eladrin Elf](https://2014.5e.tools/races.html#elf%20(eladrin)_dmg)
 - **Background**: [Cloistered Scholar](https://2014.5e.tools/backgrounds.html#cloistered%20scholar_scag)  
 - **Languages**: Common, Elven, Draconic, Infernal  
-- **Alignment Tendencies**: Chaotic  
+- **Alignment Tendencies**: Chaotic Good
 - **Research Specialty**: Interplanar Arcana and Battlefield Control
+- **Age**: 300(Max age: ~750)
+- **Class/Specialty**: Evocation Wizard
+- **Gender**: Female
+- **Approx. class level:** 12
 
 ### Personality Trait
 - Uses excessively polysyllabic language to convey erudition.
