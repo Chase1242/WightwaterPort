@@ -107,6 +107,7 @@ ___
 - All the Way Inn 
 - Rock Bottom 
 - Dew Drop inn
+- The Stormy Seas
 ___
 ### Merchants
 #### Magic Item Shops
@@ -219,3 +220,37 @@ ___
 - **Reputation**: Lavish and eccentric, great patrons of the arts.
 - **Sigil**: A golden mask on a field of swirling pastel.
 - **Seat**: Moonhall Palace, a decadent manor filled with mirrors.
+___
+## Roads
+
+- White Road
+	- Runs through town across a bridge - a main road for ground traders to transport goods up the road
+	- also know as the Southlums Road
+- Farmer's Road 
+	- Used by local farmers for transport of local food stuffs
+	- Also used as the main road to [[Vaminha]].  a smaller city to the south on the coast
+- Blogra Road
+	- Road to the Kingdom of Blou Gral
+	- Norslum Road
+	- Connects to the White Road
+- Procession Road (to [[Oria Castle]])
+
+## Statues
+- Sagillus' Reckoning
+	- Sagillus holding a mighty sword, cutting something down
+- Radelia's Fury
+	- Radelia screaming with magic swirling about her
+- Oria's Topple
+	- A dead earth elemental (pile of rocks) having a flag with an emblem of a red dragon on a gold and red background
+
+## Squares
+- The Gallow's Square
+- Whisperwind Circle
+- [[Berwyn Reikle|Berwyn]]'s Court
+	- Has visages of the sea and storms
+	- Tavern named "The Stormy Seas"
+	- Near the port
+- The Brazen Steps
+	- Houses both temples to Pelor and Sehanine
+- Moonveil Hollow
+	- Active at night, houses the temple to Mystra
