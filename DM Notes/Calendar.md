@@ -1,0 +1,28 @@
+- Ignesday - Monday
+	- Beginning of the week, when you should be most driven after resting
+- Auranday - Tuesday
+	- Second day of week, persistent to get tasks done, like the wind
+- Aquesday - Wednesday
+	- Third day of the week, day that community bathhouses are open for free (BYOS), and holy day of Uila
+- Terresday - Thursday
+	- Fourth day of the week, day for inventories, wage payouts, merchants counting earnings, etc.
+- Starday - Friday
+	- Fifth day of the week, night is holy for Sehanine, conventionally the last day of the work week
+- Moonday - Saturday
+	- Sixth day, early morning is holy for the Sehanine sept, rest day
+- Sunday - Sunday
+	- Seventh day, rest day, holy for Pelor
+
+## Months
+- Uilich - January
+- Eilistra - February
+- Pelorch - March
+- Grumbarch - April
+- Lliirant - May
+- Leirarch - June
+- Milily - July
+- Kossent - August
+- Harvent - September
+- Waukember - October
+- Aurimber - November
+- Sehamber - December

@@ -1,0 +1,6 @@
+>In the city of Wightwater's Port, on a brisk but sunny morning on Ignesday the 13th of Eilistra, \group_name has just been told their written test results! They were excited to find out they passed! Not with flying colors, but they passed, and were to report immediately to [[Shadya Reth]] at the [[Adventurer's Guild|Adventurer's Guildhall]]. After filling out all necessary information (choose a name here, able to be changed later), you are led outside, into a small, circular arena, with some training dummies.
+>"Here you will fight these dummies while I watch, but do not fear, death will not claim you this day. On my command, these dummies will autogenesize, and your goal is to fight them, while I judge your actions. The moment one of you has fallen, I will end it. Please, take your positions. And go!"
+>With a flick of her wrist, a burst of magic envelops the dummies, and the spring to life, moving stiffly at first, but becoming more fluid as they charge you.
+
+- [ ] Initial combat (# of dummies = # in party)
+- [ ] Show them quest board and have them set out for the quest

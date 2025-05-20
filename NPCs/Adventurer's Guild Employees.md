@@ -27,7 +27,7 @@
 	- Male
 	- Bugbear
 	- 70 y/o
-- [[Shadya]] 
+- [[Shadya Reth]] 
 	- Female
 	- Human
 	- 35 y/o

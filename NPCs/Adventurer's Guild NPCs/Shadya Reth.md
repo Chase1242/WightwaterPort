@@ -4,7 +4,7 @@
 - **Languages**: Common, Dwarvish
 - **Alignment Tendencies**: Neutral Good
 - **Age**: 35 (Max age: ~100)
-- **Class/Specialty**: [Enchantment Wizard](https://2014.5e.tools/classes.html#wizard_phb,state:sub_enchantment_phb=b1)
+- **Class/Specialty**: [Transmutation Wizard](https://2014.5e.tools/classes.html#wizard_phb,state:sub_transmutation_phb=b1)
 - **Gender**: Female
 - **Approx. class level:** 4
 ### Personality Trait
