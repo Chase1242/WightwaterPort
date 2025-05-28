@@ -67,7 +67,7 @@ All while this is happening, there are reports of a war on the distant edge of t
 - Party encounters a white mask having just killed another adventuring party
 - Party encounters that same party as white masks?
 - **The River Qinqen:**  
-	- Maybe the magical runoff from the machine is slowly polluting or corrupting the river. Eventually, even ghosts or spirits are seen floating upstream.
+	- Maybe the magical runoff from the machine is slowly polluting or corrupting the river. Eventually, even faint images of hellspawn can be seen on the river at night.
 ## To-do list
 - [ ] Act 1 quests
 - [ ] Session 1 encounter

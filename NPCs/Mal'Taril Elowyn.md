@@ -1,0 +1,3 @@
+- 2nd born son of Taril and Charilia Elowyn
+- Spoiled
+- Has siblings Al'Taril and Miazana
