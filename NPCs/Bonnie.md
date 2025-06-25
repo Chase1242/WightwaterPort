@@ -1,0 +1,2 @@
+*N doppelganger disguised as Tethyrian human barmaid* 
+This doppelganger posing as a friendly barmaid is the leader of a gang of five doppelgangers that arrived in Wightwater over a year ago. To help the gang make ends meet, she works for Durnan as a barmaid. Mattrim Mereg (see below) knows her secret.

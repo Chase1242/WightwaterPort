@@ -100,7 +100,8 @@ ___
 - The Innd 
 - Bargewright Inn 
 - Lie, Drink, and Steel 
-- The Thirsty Goat 
+- [[Yawning Portal]] 
+- The Thirsty Goat
 - The Cloak and Stagger 
 - Gobble Inn 
 - The Eye of the Beholder 

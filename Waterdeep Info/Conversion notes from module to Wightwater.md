@@ -1,0 +1,4 @@
+- Baldur's Gate to [[Coentra]]
+- Trollskull Alley to [[Pixiedust Alley]]
+- North Ward to [[North Harbor]]
+- Dock Ward to [[Harbor Ward]]

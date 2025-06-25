@@ -1,0 +1,4 @@
+*LG male Chondathan human fighter*
+Jalester Silvermane (see appendix B) is an agent of the Lords' Alliance who reports directly to Laeral Silver hand. The Open Lord of Wightwater has asked him to spy on adventurers who might, through their actions, aid or imperil the city and its citizens. Since the Yawning Portal attracts adventurers of all sorts, Jalester spends a lot of time here, usually seated by himself in a quiet corner. Durnan knows that Jalester works for Laeral and leaves the young man alone. 
+
+Jalester is often distracted by thoughts of Faerrel Dunblade, his boyfriend, who was killed in a street fight last year. When not engaged in alliance business. Jalester is lonely and looking for love.

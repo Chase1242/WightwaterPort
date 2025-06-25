@@ -1,0 +1,1 @@
+A traveling carnival that houses the lair of [[Jarlaxle Baenre]] and the [[Scarlet Marpenoth]] submarine 
