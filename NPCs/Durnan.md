@@ -1,2 +1,2 @@
-*N male llluskan human innkeeper*
+*N male Dikonian human innkeeper*
 The proprietor of the Yawning Portal is a retired adventurer and a man of few words. Durnan (see appendix B) bluntly warns adventurers of lower than 5th level that entering Undermountain "isn't a good idea."' He keeps a magic greatsword hidden behind the bar just in case something monstrous crawls up out of the entry well.

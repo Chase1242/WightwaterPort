@@ -1,0 +1,1 @@
+A duergar in the [[Xanathar Guild]] hideout

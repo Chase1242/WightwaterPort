@@ -2,3 +2,5 @@
 - Trollskull Alley to [[Pixiedust Alley]]
 - North Ward to [[North Harbor]]
 - Dock Ward to [[Harbor Ward]]
+- Skewered Dragon to [[The Thirsty Goat]]
+- Luskan - [[Dikon]]
