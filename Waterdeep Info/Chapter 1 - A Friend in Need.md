@@ -14,7 +14,7 @@ As the characters are relaxing in the taproom of the Yawning Portal. a fistfight
 >You sit around a sturdy wooden table lit by a brightly burning candle and littered with plates cleared of food and half-drained tankards. The sounds of gamblers yelling and drunken adventurers singing bawdy songs nearly drown out the off-key strumming of a young bard three tables over. 
 >Then all the noise is eclipsed by a shout: "Ya pig! Like killin' me mates, does ya?" Then a seven-foot-tall half orc is hit by a wild, swinging punch from a male human whose shaved head is covered with eye-shaped tattoos. Four other humans stand behind him, ready to jump Into the fray. The half-ore cracks her knuckles, roars, and leaps at the tattooed figure- but before you can see if blood is drawn, a crowd of spectators clusters around the brawl. What do you do?
 
-The human combatants are five members of the [[Xanathar Guild]] (CE human bandits). The one with the eye shaped tattoos on his bald pate is their leader, [[Krentz]]. Their foe, [[Yagra Stonefist]], is a half-ore employed by the Zhentarim (see the Yawning Portal Friendly Faces handout in appendix C). Yagra fights for her pride.
+The human combatants are five members of the [[Xanathar Guild]] (CE human bandits). The one with the eye shaped tattoos on his bald pate is their leader, [[Krentz]]. Their foe, [[Yagra Stonefist]], is a half-orc employed by the Zhentarim (see the Yawning Portal Friendly Faces handout in appendix C). Yagra fights for her pride.
 
 #### Getting Involved
 If the characters choose to join the fray, have everyone roll initiative. But the fight is almost over by the time they push through the rowdy spectators. Krentz has only 3 hit points remaining and is trying to escape from underneath Yagra, but the four other Xanathar Guild members are poised to tackle her. 
@@ -100,7 +100,7 @@ The Thirsty Goat faces an alley that runs between Net Street and Fillet Lane in 
 
 Floon has not been at the Thirsty Goat since the night of his disappearance, and the dive's dockworker patrons are loath to talk to strangers. A bribe or a successful DC 13 Charisma (Intimidation or Persuasion) check gets them to open up. 
 
-***Floon's Fate.*** Several of the regulars remember seeing Volo and Floon drinking together a couple of nights ago. After Volo left, Floon stuck around long enough to meet with another friend: Renaer Neverember, the son of Wightwaters's previous Open Lord, Dagult Neverember. "Chip off the old block, that one!" sneers one patron. "Just another spoiled, rich noble who likes to rub our noses in it!" says another. 
+***Floon's Fate.*** Several of the regulars remember seeing Volo and Floon drinking together a couple of nights ago. After Volo left, Floon stuck around long enough to meet with another friend: Renaer Neverember, the son of Wightwater's previous Open Lord, [[Dagult Neverember]]. "Chip off the old block, that one!" sneers one patron. "Just another spoiled, rich noble who likes to rub our noses in it!" says another. 
 
 The two drank and played a few rounds of Three Dragon Ante before leaving around midnight. Five men followed them out, and no one in the tavern knows what happened after that. The men who left shortly after Floon and Renaer haven't returned to the tavern since, but they're known to frequent a warehouse on Candle Lane. "Look for the snake symbol on the door," says one of the tavern regulars.
 

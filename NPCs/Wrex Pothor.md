@@ -1,0 +1,1 @@
+Wrex is an Aarakocra from the [[Principality of Capra]], who is a middling member of the [[Guild of Potion Brewers and Poison Makers]]

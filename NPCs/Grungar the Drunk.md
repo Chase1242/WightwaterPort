@@ -1,0 +1,1 @@
+A bugbear adventurer who lost his wife and kids to a fire in [[Wightwater]] a year ago. He sees a [[White Mask]] outside the [[Yawning Portal]] where the troll was (but is no more) on the night of the troll fight ([[Chapter 1 - A Friend in Need]]).
