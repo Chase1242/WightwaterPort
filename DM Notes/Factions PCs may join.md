@@ -1,5 +1,5 @@
 ## Emerald Enclave
-- [[Jordon]]
+- [[Aldarian Woods]]
 - [[Ahrie Ole Teetons]]
 ## [[Zhentarim]]
 - [[Fleet Fibblewibble]]

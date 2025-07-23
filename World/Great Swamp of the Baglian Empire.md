@@ -1,0 +1,1 @@
+A swamp in the north of the [[Baglian Empire]] that protects them from invasion - marching through this swamp would decimate any army with disease and natural dangers better than any army could
