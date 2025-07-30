@@ -9,7 +9,7 @@ Ahriola was born in the very heart of the Faewild, in a small, vibrant village n
 
 This year, the annual town festival held special significance. It was Ahriola’s first festival as a new adult, and her loving mother had tasked her with finding the most exquisite spider silk in shades of emerald and silver for a special gown. Arriving in Wightwater, Ahriola immediately sought out Jalester, the city's most well-connected citizen, known for his ample knowledge of merchants and gossip. Her father often consulted Jalester for leads, and Ahriola knew she'd find him holding court in one of the city's lively bars.
 
-As luck would have it, [[Jalester Silvermane|Jalester]] was conversing with a strikingly [[The HandsomeFae|handsome fae]], whose very presence instantly captivated Ahriola. Delighted, she made her way over. "Master Jalester," she began, "I'm searching for the finest spider silk."
+As luck would have it, [[Jalester Silvermane|Jalester]] was conversing with a strikingly [[The Handsome Fae|handsome fae]], whose very presence instantly captivated Ahriola. Delighted, she made her way over. "Master Jalester," she began, "I'm searching for the finest spider silk."
 
 The dangerous fae, with eyes that held a thrilling glint, chimed in. "I can lead you to a merchant with such treasures."
 

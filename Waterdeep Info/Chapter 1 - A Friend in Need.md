@@ -312,3 +312,13 @@ Volo knows the best places to eat and find merriment. He can also give character
 Although Renaer is estranged from his rich and powerful father, he still has friends in high places. including Harpers who can come to the characters' rescue if they need it. If the characters are looking for an audience with influential persons in Wightwater, Renaer can set up meetings with [[Mirt]], [[Remallia Haventree]] (see appendix B for both), or just about any other Wightwateran noble, if he thinks the characters will comport them selves well.
 
 ## Level up
+
+## Things I need for chapter 1
+- [[Zhentarim Hideout Image.png]]
+- [[Xanathar Hideout Image.png]]
+- Dice
+- Notes (either print or on Nora's laptop)
+- DM Screen
+- Beginner player guide to combat
+- EZ status sheet
+- Printed char sheets for players if they want it
