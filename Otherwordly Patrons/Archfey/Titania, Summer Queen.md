@@ -7,6 +7,7 @@ Resseth Dawnheart
 - Summer Queen
 - Faerie Queen
 - Queen of Light
+- Mother Maple - to the forest gnomes of the [[Verdant Tangle]]
 ## Court
 Titania is the leader of the [Seelie Court](https://forgottenrealms.fandom.com/wiki/Seelie_Court)
 [[Seelie Court]] 

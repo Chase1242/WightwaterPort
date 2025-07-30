@@ -1,9 +1,9 @@
 ## Emerald Enclave
 - [[Aldarian Woods]]
-- [[Ahrie Ole Teetons]]
+- [[Ahriola Teetons]]
 ## [[Zhentarim]]
 - [[Fleet Fibblewibble]]
 ## Harpers
 - [[Ireland]]
 ## None
-- [[Loopmottin Folkor]]
+- [[Brindle 'Lickleaf' Nackle]]

@@ -1,0 +1,1 @@
+Was married to [[Aerin Lightfeather]], mother to [[Aldarian Woods]] died to an unexplainable sickness from a warlock of [[Kronos]] (for character development)

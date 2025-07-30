@@ -1,0 +1,1 @@
+Father of [[Aldarian Woods]], married to [[Aerin Lightfeather]], killed by the same warlock of [[Kronos]] that killed Aerin (for character development)

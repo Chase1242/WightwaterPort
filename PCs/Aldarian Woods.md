@@ -2,6 +2,9 @@
 ## Table of Contents
 ___
 - [[#Backstory]]
+	- [[#As Jordon wrote it]]
+	- [[#Rewritten]]
+- [[#Character Connections]]
 ## Backstory
 ---
 ### As Jordon wrote it
@@ -40,3 +43,7 @@ Unbeknownst to him, the statue was an ancient idol of **Juiblex**, the Faceless 
 And Juiblex answered.
 
 It granted him insight, eldritch secrets whispered through the dark, in exchange for his undying loyalty.
+
+## Character Connections
+- [[Jacob Woods]]
+- [[Aerin Lightfeather]]
