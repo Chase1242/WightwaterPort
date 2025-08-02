@@ -322,3 +322,16 @@ Although Renaer is estranged from his rich and powerful father, he still has fri
 - Beginner player guide to combat
 - EZ status sheet
 - Printed char sheets for players if they want it
+- Stat blocks
+	- Gazer
+	- Kenku
+	- Troll
+	- Stirge
+	- Bandits
+	- Veteran
+	- Goblin
+	- Gray Ooze 
+	- Mind Flayer
+	- Intellect Devourer
+	- Apprentice Wizard
+	- Wererat
