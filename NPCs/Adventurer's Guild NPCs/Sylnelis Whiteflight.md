@@ -13,6 +13,7 @@
 - No Limits. Nothing should fetter the infinite possibility inherent in all existence. (Chaotic)
 ### Bond
 - I have an ancient text that holds terrible secrets that must not fall into the wrong hands.
+	- This is a scroll of amnesia that Radelia left with him
 ### Flaw
 - Unlocking an ancient mystery is worth the price of a civilization.
 ---

@@ -4,6 +4,6 @@
 ## [[Zhentarim]]
 - [[Fleet Fibblewibble]]
 ## Harpers
-- [[Ireland]]
+- [[Navreyi]]
 ## None
 - [[Brindle 'Lickleaf' Nackle]]

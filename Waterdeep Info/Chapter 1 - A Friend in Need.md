@@ -58,12 +58,12 @@ Beset by writer's block, Volo met Floon Blagmaar for drinks at the The Thirsty G
 Unbeknownst to Volo, not long after he departed, a drunken Floon met another acquaintance, Lord [[Renaer Neverember]], at the tavern. The two left together, with Renaer offering to walk Floon home. Five Zhentarim thugs working for [[Urstul Floxin]] (see appendix B) jumped both Floon and Renaer. They took them to a warehouse in the Harbor Ward, so they could question Renaer- the son of Lord [[Dagult Neverember]]-about the whereabouts of the [[Stone of Golorr]] and his father's hidden cache of dragons. Before the interrogation could begin, members of the [[Xanathar Guild]] ambushed and killed the Zhent guards in the warehouse. The new arrivals mistook Floon for Renaer, knocked Floon unconscious, and dragged him away while Renaer hid and escaped their notice. Floon was taken to a Xanathar Guild hideout in the sewers. A small gang of kenku was left behind at the Zhentarim warehouse to kill any other Zhents who might show up at the warehouse. The presence of the kenku has prevented Renaer from trying to leave the warehouse.
 
 ### Finding Floon
-Volo last saw Floon outside the The Thirsty Goat, a dubious (and Zhentarim-owned) tavern between Net Street and Fillet Lane in the Dock Ward. The following encounters kick off the characters' investigation. 
+Volo last saw Floon outside the The Thirsty Goat, a dubious (and Zhentarim-owned) tavern between Net Street and Fillet Lane in the Harbor Ward. The following encounters kick off the characters' investigation. 
 
 En route to the tavern, "[[#Blood in the Streets]]" is a chance for characters to see the City Watch in action. If the characters decide to look around, "[[#Searching the Harbor Ward]]" gives them a feel for their surroundings, and they might discover a strange place, "[[#Old Xoblob Shop]]," that warrants further exploration. Once they arrive at their destination, "The Thirsty Goat" is an opportunity for the characters to get information from the patrons, which leads them to "Candle Lane,"' where their quest continues.
 
 #### Blood in the Streets
-As the characters travel through the Dock Ward, they come upon the aftermath of a bloody clash between the Xanathar Guild and the Zhentarim:
+As the characters travel through the Harbor Ward, they come upon the aftermath of a bloody clash between the Xanathar Guild and the Zhentarim:
 
 >As you turn a corner, you find yourselves on a street that has been cordoned off by the City Watch. Lying on the cobblestones are a half-dozen corpses, seemingly the victims of some terrible skirmish. Watch officers have disarmed and arrested three blood-drenched humans and are in the midst of questioning witnesses. One of the officers sees you. "Get on," she says. "Nothing to see here." 
 
@@ -121,7 +121,7 @@ Knocking at the doors or the window alerts a group of kenku inside that someone 
 ![[Zhentarim Hideout Image.png]]
 
 ### Z1. Main Room
-The Black Network's main business is recruiting, training, and equipping sellswords. Crates packed with weapons, rations, boots, black uniforms, and other gear fill the warehouse. 
+==The Black Network's main business is recruiting, training, and equipping sells words. Crates packed with weapons, rations, boots, black uniforms, and other gear fill the warehouse. ==
 
 When the characters try to enter, determine if the four kenku inside are aware of their presence before reading the boxed text.
 

@@ -4,7 +4,7 @@ The character is a Satyr Bard, bored by all the bureaucracy and diplomacy of the
 ## Table of Contents
 ___
 - [[#<Character Name>'s great-grandmother Zufosu <last name>|Zufosu's Backstory]]
-## \<Character Name>'s great-grandmother Zufosu \<last name>
+## Navreyi's great-grandmother Zufosu \<last name>
 ---
 *When you were little, your grandfather told you a story of your great-grandmother Zufosu (choose last name when you are ready). He sat you on his lap, with pride and love shining in his eyes, and told you the tale of his mother...*
 
