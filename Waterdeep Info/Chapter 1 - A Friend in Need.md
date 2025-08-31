@@ -116,7 +116,7 @@ The hideout on Candle Lane (see map 1.1) is a ram shackle two-story warehouse. T
 
 The warehouse stands at the back of an outer yard behind a high fence. The gate on the fence isn't locked. The building's three points of entry - a front door, a large warehouse loading door, and a painted-over window are locked. The front door has a sliding peephole that can be opened from the inside. Either of the doors or the window can be unlocked by a character who makes a successful `DC 12 Dexterity check` using thieves' tools, or can be forced open with a successful `DC 10 Strength (Athletics) check`. 
 
-Knocking at the doors or the window alerts a group of kenku inside that someone is coming. The kenku scramble to hide behind toppled furniture, making a ruckus that any character who has a passive Wisdom (Perception) score of 16 or higher can hear. These kenku are all that remain of the Xanathar Guild force that murdered almost everyone in the warehouse after the five Zhentarim thugs captured Renaer Neverember and Floon Blagmaar and brought them here. Floon was taken away, but Renaer succeeded in staying alive by hiding. Now, the young noble is trying to figure out how to slip past the kenku, who are lazily searching the warehouse for loot while waiting to see if any more Zhents show up.
+Knocking at the doors or the window alerts a group of kenku inside that someone is coming. The kenku scramble to hide behind toppled furniture, making a ruckus that any character who has a `passive Wisdom (Perception) score of 16 or higher` can hear. These kenku are all that remain of the Xanathar Guild force that murdered almost everyone in the warehouse after the five Zhentarim thugs captured Renaer Neverember and Floon Blagmaar and brought them here. Floon was taken away, but Renaer succeeded in staying alive by hiding. Now, the young noble is trying to figure out how to slip past the kenku, who are lazily searching the warehouse for loot while waiting to see if any more Zhents show up.
 
 ![[Zhentarim Hideout Image.png]]
 
@@ -134,7 +134,7 @@ If the kenku aren't hidden, add:
 >Four short, avian creatures with long beaks and black feathers look over in surprise from where they stand in the middle of the warehouse. Each wears a hooded cloak and wields a shortsword.
 
 The corpses belong to five human Zhentarim sellswords (the same ones who kidnapped Floon and Renaer) and seven human Xanathar Guild thugs, all of them clad in leather armor. Each Zhent has a black tattoo of a winged snake on his neck or forearm, and one of the Xanathar Guild members has a black tattoo on the palm of his right hand that looks like a circle with ten spokes radiating out from its circumference (the symbol of Xanathar). The kenku fight until two of them are incapacitated or killed, whereupon the survivors try to flee. A successful `DC 10 Charisma (Intimidation) check` forces captured kenku to divulge what they know.
-
+![[Kenku.png]]
 #### What the kenku know
 When kenku speak, they mimic sounds and voices they have heard before. Under interrogation, they repeat the following phrases:
 - In a deep voice with an orcish accent: "Xanathar sends its regards." 
@@ -153,7 +153,7 @@ Renaer feels guilty that Floon was taken, since he believes (correctly) that the
 
 If a character asks Renaer why the Zhents kidnapped him, he gives the following truthful reply:
 
->"The Zhentarim thinks that my father embezzled a large amount of gold while he was Open Lord, and that he hid the dragons somewhere in the city. They think they can find it by using an artifact called the Stone of Golorr, which was in the hands of the Xanathar Guild until recently. Apparently, someone stole it. The Zhents thought I knew something about all of this, but I don't. My father and I haven't spoken in years."
+>"The Zhentarim thinks that my father embezzled a large amount of gold while he was Open Lord, and that he hid the dragons somewhere in the city. They think they can find it by using an artifact called the [[Stone of Golorr]], which was in the hands of the Xanathar Guild until recently. Apparently, someone stole it. The Zhents thought I knew something about all of this, but I don't. My father and I haven't spoken in years."
 
 ### Z3. Secret Room
 This room is hidden behind a secret door that can be found with a successful DC 15 Wisdom (Perception) check. When the secret door is opened, the characters can hear the faint sound of a bell ringing in the offices above them (area Z5).
@@ -205,12 +205,14 @@ Before arriving at the Xanathar Guild hideout, the characters have an encounter 
 
 A hostile gazer (see appendix B) that is in league with [[Grum'shar]], the local Xanathar Guild boss, guards this intersection. Once the characters defeat it, they can press on, following the corridor where the chalk symbol is located; they reach the hideout after following the correct tunnel for 5 minutes. 
 
+![[Gazer_stat_block.png]]
+
 ***Ladder.*** Characters who climb the ladder and push open the metal cover find themselves in the cellar of the Spouting Fish, a tavern in the Harbor Ward.
 
 ## Xanathar Guild Hideout
 The Xanathar Guild has hideouts throughout Wightwater's sewers. The floor plan of this locale (see map 1.2) can be reused for other hideouts. 
 
-The boss of this hideout is a half-ore named Grum'shar. When the characters arrive, Grum'shar is interrogating Floon Blagmaar in area Q7. His display of torture techniques is a ploy to impress his other guest: a mind flayer named [[Nihiloor]] (see appendix B). 
+The boss of this hideout is a half-orc named Grum'shar. When the characters arrive, Grum'shar is interrogating Floon Blagmaar in area Q7. His display of torture techniques is a ploy to impress his other guest: a mind flayer named [[Nihiloor]] (see appendix B). 
 
 All the doors in the hideout are unlocked. Grum'shar assumes that only those who have guild business will be able to find their way here.
 
@@ -221,7 +223,7 @@ The characters approach this area from the east, slogging through 1-foot-deep wa
 >The main sewer tunnel expands into a circular hub with a pair of arrow slits carved into its outer walls, directly across from each other. Two passages continue on to the north and south. A stone door is set into the back wall of a stone ledge to the west. 
 
 If the characters talk loudly or otherwise make a lot of noise here, the goblin sentries in areas Q2a and Q2b awaken and shoot arrows at them through the arrow slits. The slits provide the goblins with three-quarters cover.
-
+![[Goblin.png]]
 #### Secret Door
 A secret door in the wall of the tunnel that leads south can be found with a successful `DC 15 Wisdom (Perception) check`.
 
@@ -241,22 +243,28 @@ When the characters arrive, Zemk is using pieces of furniture to barricade the d
 Once combat starts, Zemk fights to the death. How Krentz reacts to the adventurers depends on how they treated him earlier. If they helped him, he gives them a chance to leave in peace, but he fights alongside Zemk if they refuse to withdraw. If the duergar is killed, Krentz flees if he can or surrenders if he must.
 
 Neither Zemk nor Krentz carries any treasure. Both report to Grum'shar (see area [[#Q7. Boss Fight|Q7]]).
+![[Duergar.png]]
+![[Bandit.png]]
 ### Q6. Lavatory
 This room has a hole in the floor that opens into a cesspit. A gray ooze has emerged from the pit and killed two goblins that were sent into the room to dispose of it. The goblins' bones float amid the ooze's gooey form, and their pitted weapons lie on the floor nearby. None of the gear is salvageable.
+![[Gray Ooze.png]]
 ### Q7. Boss Fight
->Threadbare curtains hang on the east wall of a long hall, in the middle of which a muscular half-ore in dingy robes stands with his foot on the chest of a male human with wavy red-blond hair. Fire burns around the ore's clenched fist, and his victim cries and squirms helplessly beneath him. 
+>Threadbare curtains hang on the east wall of a long hall, in the middle of which a muscular half-orc in dingy robes stands with his foot on the chest of a male human with wavy red-blond hair. Fire burns around the ore's clenched fist, and his victim cries and squirms helplessly beneath him. 
 
 >Seated on a raised platform to the south is a nightmarish figure wearing black robes. It has large white eyes and rubbery purple skin, with four tentacles encircling its in human mouth. It cradles and gently caresses what looks like a disembodied brain with feet. 
 
-The tentacled creature is Nihiloor (see appendix B), a mind flayer that is caressing an intellect devourer. Upon seeing the adventurers, Nihiloor rises from the stone chair, sets .its pet down, and glides across the room, intending to leave through the double door in the west wall. The mind flayer expects Grum'shar and the intellect devourer to cover its escape. 
+The tentacled creature is Nihiloor (see appendix B), a mind flayer that is caressing an intellect devourer. Upon seeing the adventurers, Nihiloor rises from the stone chair, sets its pet down, and glides across the room, intending to leave through the double door in the west wall. The mind flayer expects Grum'shar and the intellect devourer to cover its escape. 
 
-Nihiloor carries a 3-inch-diameter stone orb carved to resemble an eyeball, similar to what one might see at the end of a beholder's eyestalk. This stone eye is the key to activating the magic portal in area [[#Q1. Central Hub|Q1]]. The mind flayer uses it to return to Xanathar's lair (described in chapter 5). It uses dominate monster to control some one who gets in its way and turns any such individuals against their allies.
+Nihiloor carries a 3-inch-diameter stone orb carved to resemble an eyeball, similar to what one might see at the end of a beholder's eyestalk. This stone eye is the key to activating the magic portal in area [[#Q11. Back door|Q11]]. The mind flayer uses it to return to Xanathar's lair (described in chapter 5). It uses dominate monster (wisdom spell save DC 15) to control someone who gets in its way and turns any such individuals against their allies.
 
-The half-ore is Grum'shar, a low-end Xanathar Guild boss. As soon as his minions retrieved who they thought was Renaer Neverember, the half-orc begged Nihiloor let him witness the interrogation of the captive, not realizing until after he did so that he had mistaken the prisoner's identity. Grum'shar attacks the characters in the hope of salvaging his reputation. He is an apprentice wizard (see appendix B), with these changes: 
+The half-orc is Grum'shar, a low-end Xanathar Guild boss. As soon as his minions retrieved who they thought was Renaer Neverember, the half-orc begged Nihiloor let him witness the interrogation of the captive, not realizing until after he did so that he had mistaken the prisoner's identity. Grum'shar attacks the characters in the hope of salvaging his reputation. He is an apprentice wizard (see appendix B), with these changes: 
 - Grum'shar is chaotic evil. 
 - He has these racial traits: When reduced to 0 hit points. he drops to 1 hit point instead (but can't do this again until he finishes a long rest). 
 - He has darkvision out to a range of 60 feet.
 - He speaks Common and Orc.
+![[Apprentice_wizard_stat_block.png]]
+![[Intellect_devourer_stat_block.png]]
+![[Dominate_monster.png]]
 #### Roleplaying Floon
 As a result of Grum'shar's torture, Floon Blagmaar (see appendix B) has 1 hit point left. If he is healed by the characters, he is eternally grateful and shows his affection by hugging them. He stays close to them, trusting in their ability to protect him. If Renaer is with the party, he can shoulder the burden of protecting Floon.
 
@@ -283,18 +291,19 @@ If the stone eye in Nihiloor's possession is pressed into the circular indentati
 The secret door is plainly visible to anyone who approaches it from the east.
 
 ### Q12. Hostel Cellar
-A narrow passage leads to the cellar of a halfling-owned hostel on Spices Street in the Harbor Ward. Medium characters must squeeze to reach this area from the tunnel. The hostel is used as a base by the Shard Shunners. a gang of ha I fling wererats. They are aware of the Xana thar Guild hideout, and the two gangs are tenuous allies. 
+A narrow passage leads to the cellar of a halfling-owned hostel on Spices Street in the Harbor Ward. Medium characters must squeeze to reach this area from the tunnel. The hostel is used as a base by the Shard Shunners. a gang of halfling wererats. They are aware of the Xanathar Guild hideout, and the two gangs are tenuous allies. 
 
 [[Roscoe Underbough]], a Shard Shunner in hybrid form, guards the cellar. He hides in the northwest storeroom, ready to jump out and scare away anyone who heads for the stairs. Not eager to commit murder, Roscoe allows retreating characters to flee back to the sewers. He is a wererat with these changes: 
 - Roscoe is Small and has 27 (6d6 + 6) hit points. 
 -  He has these racial traits: He can move through the space of a Medium or larger creature. He has advantage on saving throws against being frightened. He speaks Common and Halfling, and he knows thieves' cant.
+![[Wererat.png]]
 #### Development
 If the characters defeat Roscoe or slip past him, they can make their way up into the hostel, which caters to a mostly halfling clientele. With none of the other Shard Shunners currently present, the characters are greeted warmly by staff and patrons, who point them in the direction of the nearest bathhouse.
 
 ## Completing Volo's Quest
 Returning to the Yawning Portal with Floon Blagmaar in tow marks the end of this introductory quest. All that remains is for the characters to collect their reward.
 ### Rewards
-Volo is drinking alone in the Yawning Portal while anx iously awaiting news of Floon's fate. He springs up and runs to embrace the characters and his friend as soon as he sees them.
+Volo is drinking alone in the Yawning Portal while anxiously awaiting news of Floon's fate. He springs up and runs to embrace the characters and his friend as soon as he sees them.
 #### A Good Deed
 If the characters reunite Volo with Floon, Volo gives them a rather sheepish look as he explains their reward: 
 
@@ -312,3 +321,26 @@ Volo knows the best places to eat and find merriment. He can also give character
 Although Renaer is estranged from his rich and powerful father, he still has friends in high places. including Harpers who can come to the characters' rescue if they need it. If the characters are looking for an audience with influential persons in Wightwater, Renaer can set up meetings with [[Mirt]], [[Remallia Haventree]] (see appendix B for both), or just about any other Wightwateran noble, if he thinks the characters will comport them selves well.
 
 ## Level up
+
+## Things I need for chapter 1
+- [[Zhentarim Hideout Image.png]]
+- [[Xanathar Hideout Image.png]]
+- Dice
+- Notes (either print or on Nora's laptop)
+- DM Screen
+- Beginner player guide to combat
+- EZ status sheet
+- Printed char sheets for players if they want it
+- Stat blocks
+	- Gazer
+	- Kenku
+	- Troll
+	- Stirge
+	- Bandits
+	- Veteran
+	- Goblin
+	- Gray Ooze 
+	- Mind Flayer
+	- Intellect Devourer
+	- Apprentice Wizard
+	- Wererat

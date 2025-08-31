@@ -1,0 +1,4 @@
+- A council of the major guilds and merchant circles
+- Has two high seats
+	- The Open Lord
+	- The High Mage
