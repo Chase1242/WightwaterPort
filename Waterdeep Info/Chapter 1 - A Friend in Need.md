@@ -121,11 +121,11 @@ Knocking at the doors or the window alerts a group of kenku inside that someone 
 ![[Zhentarim Hideout Image.png]]
 
 ### Z1. Main Room
-==The Black Network's main business is recruiting, training, and equipping sells words. Crates packed with weapons, rations, boots, black uniforms, and other gear fill the warehouse. ==
+The Black Network's main business is recruiting, training, and equipping sells words. Crates packed with weapons, rations, boots, black uniforms, and other gear fill the warehouse.
 
 When the characters try to enter, determine if the four kenku inside are aware of their presence before reading the boxed text.
 
-A character with thieves' tools can pick the lock on a door or the window with a successful DC 10 Dexterity check. Characters who enter quietly can try to catch the kenku by surprise. If the characters knock before entering or announce their arrival in some other way, the kenku hide as described above.
+A character with thieves' tools can pick the lock on a door or the window with a `successful DC 10 Dexterity check`. Characters who enter quietly can try to catch the kenku by surprise. If the characters knock before entering or announce their arrival in some other way, the kenku hide as described above.
 
 >Tables and chairs have been carelessly tossed across the floor. The corpses of a dozen men lie along the walls, their rapiers and daggers lying nearby. On the north side of the area, stairs rise to an open level above. 
 
