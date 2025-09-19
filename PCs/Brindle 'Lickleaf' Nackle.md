@@ -1,8 +1,16 @@
+# Character
+## Table of Contents
+___
+- [[#Character Stuff]]
+- [[#Backstory]]
+
+## Character Stuff
 Name: Brindle "Lickleaf" Nackle  
 Race: Forest Gnome  
 Class: Monk (Way of the Drunken Master-in-training)  
 Alignment: Chaotic Good  
 Background: Outlander
+## Backstory
 
 ---
 ### Backstory:
