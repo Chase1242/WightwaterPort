@@ -1,8 +1,11 @@
 # Character
+---
 ## Table of Contents
 ___
 - [[#Character Stuff]]
 - [[#Backstory]]
+- [[#Player notes]]
+	- [[#From Chapter 1 - A Friend in Need Chapter 1 of Waterdeep Dragon Heist|Waterdeep chapter 1]]
 
 ## Character Stuff
 Name: Brindle "Lickleaf" Nackle  
@@ -74,7 +77,7 @@ The forest echoed with their laughter as the fairy gave in and purposefully fell
 
 Brindle grinned up at her, brushing some leaves from her tunic. “And I’m just getting started! But hey, you’re not so bad for a fairy... for a creature who can’t drink without flying into a tree.”
 
-The fairy snorted, clearly impressed. “You’ve got a point there. Name’s: [[Ahriola Teetons]], by the way. And since we’re already best friends, I’ll make you a deal: You give me one of those weird mushrooms you’re always licking, and I’ll show you some real tricks... for free.”
+The fairy snorted, clearly impressed. “You’ve got a point there. Name’s: [[Ahrie Ola Teetons]], by the way. And since we’re already best friends, I’ll make you a deal: You give me one of those weird mushrooms you’re always licking, and I’ll show you some real tricks... for free.”
 
 Brindle, still grinning, offered her a small handful of Mooncap Mushrooms. “Deal. But if I’m giving you mushrooms, you better not go playing tricks on me. I don’t like being poisoned.”
 
@@ -91,3 +94,6 @@ Together, they became a force of nature, their antics legendary in every village
 
 ---
 Their friendship was truly a balance of chaos and grounding, just like the very forest they called home.
+
+## Player notes
+### From [[Chapter 1 - A Friend in Need|Chapter 1]] of Waterdeep: Dragon Heist

@@ -1,10 +1,14 @@
 # Character
+---
 ## Table of Contents
 ___
 - [[#Backstory]]
 	- [[#As Jordon wrote it]]
 	- [[#Rewritten]]
 - [[#Character Connections]]
+- [[#Player notes]]
+	- [[#From Chapter 1 - A Friend in Need Chapter 1 of Waterdeep Dragon Heist|Waterdeep chapter 1]]
+
 ## Backstory
 ---
 ### As Jordon wrote it
@@ -47,3 +51,6 @@ It granted him insight, eldritch secrets whispered through the dark, in exchange
 ## Character Connections
 - [[Jacob Woods]]
 - [[Aerin Lightfeather]]
+
+## Player notes
+### From [[Chapter 1 - A Friend in Need|Chapter 1]] of Waterdeep: Dragon Heist

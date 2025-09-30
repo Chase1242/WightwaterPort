@@ -86,7 +86,7 @@ ___
 - The Drunken Miner 
 - The Sober Dwarf 
 - Good for What Ales Ya 
-- The Boastful Bard 
+- [[The Boastful Bard ]]
 - Don’t Go Inn 
 - The Drowning Cat 
 - The Merl Inn 
@@ -102,7 +102,7 @@ ___
 - Lie, Drink, and Steel 
 - [[Yawning Portal]] 
 - The Thirsty Goat
-- The Cloak and Stagger 
+- [[The Cloak and Stagger Tavern]] 
 - Gobble Inn 
 - The Eye of the Beholder 
 - All the Way Inn 

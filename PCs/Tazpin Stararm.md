@@ -1,3 +1,9 @@
+# Character
+## Table of Contents
+---
+- [[#Backstory]]
+- [[#Player notes]]
+## Backstory
 Tazpin “THE STRONGEST WIZARD”
 
 Once, in a peaceful realm of Knowledge, Nature, and Afternoon Naps, there was a gnome who couldn’t sit still.
@@ -65,3 +71,5 @@ He doesn't know what was taken from him—or who took it—but one thing is clea
 “I AM THE STRONGEST WIZARD!”
 
 And he’s going to prove it. Again.
+
+## Player notes

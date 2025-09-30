@@ -1,6 +1,6 @@
 ## Emerald Enclave
 - [[Aldarian Woods]]
-- [[Ahriola Teetons]]
+- [[Ahrie Ola Teetons]]
 ## [[Zhentarim]]
 - [[Fleet Fibblewibble]]
 ## Harpers

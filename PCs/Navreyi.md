@@ -1,9 +1,11 @@
-# Character Overview
+# Character
 ---
 The character is a Satyr Bard, bored by all the bureaucracy and diplomacy of the COMICs, and decided to take after her great-grandmammy [[Zufosu]] 
 ## Table of Contents
 ___
 - [[#<Character Name>'s great-grandmother Zufosu <last name>|Zufosu's Backstory]]
+- [[#Player notes]]
+	- [[#From Chapter 1 - A Friend in Need Chapter 1 of Waterdeep Dragon Heist|Waterdeep chapter 1]]
 ## Navreyi's great-grandmother Zufosu \<last name>
 ---
 *When you were little, your grandfather told you a story of your great-grandmother Zufosu (choose last name when you are ready). He sat you on his lap, with pride and love shining in his eyes, and told you the tale of his mother...*
@@ -37,3 +39,6 @@ When she played the flute, you could *almost see* the story she was trying to te
 *He ended the story with a wistful look and tears brimming the edges of his eyes.*
 
 *Each time he told that story, he would come up with a different sea monster that terrorized Zufosu, and each time it made you giggle and laugh as he tickled you.*
+
+## Player notes
+### From [[Chapter 1 - A Friend in Need|Chapter 1]] of Waterdeep: Dragon Heist

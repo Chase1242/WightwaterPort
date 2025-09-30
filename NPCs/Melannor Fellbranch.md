@@ -1,0 +1,6 @@
+- Contact for the [[Emerald Enclave]]
+- The groundskeeper of [[Phaulkonmere]]
+- Humorless
+- Delivers missions using the animal messenger spells
+	- Cats, pigeons
+- Half-elf druid

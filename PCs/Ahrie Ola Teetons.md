@@ -1,8 +1,10 @@
-# Character Overview
+# Character
 ---
 ## Table of Contents
 ---
 - [[#Backstory]]
+- [[#Player notes]]
+	- [[#From Chapter 1 - A Friend in Need Chapter 1 of Waterdeep Dragon Heist|Waterdeep chapter 1]]
 ## Backstory
 
 Ahriola was born in the very heart of the Faewild, in a small, vibrant village nestled deep in the forest, just beyond the bustling city of Wightwater Port. She was the youngest of three daughters in a loving, close-knit family. Their home was a marvel, built within the sturdy embrace of an [[Ancient Trees|ancient whispering tree]], adorned with cheerful flowers and whimsical mushroom embellishments. Ahriola's days were a joyful communion with her family and nature itself, learning the gentle ways of a forest fairy druid. Her parents, wise in the old ways, taught her and her four sisters to prepare intricate spells and potent potions. Often, Ahriola joined her sisters and father on trips into Wightwater Port to trade their magical wares.
@@ -23,7 +25,7 @@ As fatigue began to set in, her family decided to leave the town's festivities. 
 
 But he never showed.
 
-Annoyed, a slow, burning frustration began to simmer beneath Arhiola's delight. The beautiful night now felt tainted by his absence. As she slowly walked back to her family's willow tree home, she gathered magic mushrooms along the way, planning to lick their caps for much-needed mental relief.
+Annoyed, a slow, burning frustration began to simmer beneath Ahriola's delight. The beautiful night now felt tainted by his absence. As she slowly walked back to her family's willow tree home, she gathered magic mushrooms along the way, planning to lick their caps for much-needed mental relief.
 
 ### A Home Shattered
 ---
@@ -34,3 +36,6 @@ And there, standing by their family hearth, casually helping himself to yesterda
 ### Ahrie's vow
 ---
 Given that Ahrie was still a young fairy brimming with magical talent, her inability to execute spells proficiently allowed her new enemy to leave her home unscathed. Fueled by a burning desire for revenge against her newfound enemy, Ahrie ventured into the vast forest, wandering for years in search of her adversary. Along her journey, she forged strong friendships, most notably with her best friend, [[Brindle 'Lickleaf' Nackle|Brindle]].
+
+## Player notes
+### From [[Chapter 1 - A Friend in Need|Chapter 1]] of Waterdeep: Dragon Heist
