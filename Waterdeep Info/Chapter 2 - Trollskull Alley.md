@@ -1,12 +1,11 @@
 # Chapter 2
 ## Possible character affiliations
-[[Fleet Fibblewibble]] - Force Grey, [[Zhentarim]]
+[[Xerxes (fake) - Fleet Fibblewibble]] - Force Grey, [[Zhentarim]]
 [[Brindle 'Lickleaf' Nackle]] - Emerald Enclave, Lord's Alliance
 [[Ahrie Ola Teetons]] - Emerald Enclave
 [[Navreyi]] - Harpers
 [[Aldarian Woods]] - Lords Alliance, Order of the Gauntlet?
 [[Tazpin Stararm]] - whatever Xerxes does, Harpers
-
 ## Spirit on tap
 - The former tavern is haunted by the poltergeist (**specter**) of the tavern's previous barkeeper, a half-elf named Lif. Maintaining the tavern was his life's work. and he couldn't abandon the place in death.
 - The poltergeist understands Common and Elvish, but it can't speak. It invisibly causes mischief at the expense of the new owners by smashing plates, breaking beer barrels, and so forth. If the characters don't take the hint, it writes not-so-subtle warnings (such as "Closing time!" and "Last call!") on dusty floors and grimy windows. To truly claim the tavern as their own, the characters must either appease the poltergeist or destroy it.
@@ -62,7 +61,7 @@
 #### Zhentarim contact
 - A flying snake with a parchment tied about its body visits one character in the dead of night. The message reads:
 >Want to be part of something big? Speak to Davil Starsong at the Yawning Portal.
-- If the characters seek out Davil, Yagra Stonefist (see "Familiar Faces," page 20) greets them and leads interested parties to a table in the center of the Yawning Portal's taproom, where her boss waits with drink in band.
+- If the characters seek out Davil, Yagra Stonefist (see "Familiar Faces," page 20) greets them and leads interested parties to a table in the center of the Yawning Portal's taproom, where her boss waits with drink in hand.
 - [[Davil Starsong]]
 - Davil Starsong (see appendix B) is the characters' primary contact in the Black Network, at least initially. Over drinks, he shares the following information:
 	- Davil is a retired adventurer. He and his adventuring companions joined the Zhentarim a few years back. They help people in need. (More specifically, they provide loans. mercenaries, and other services.)
@@ -92,3 +91,29 @@ Somewhat hot, the constant cool sea breeze over the city makes the heat bearable
 
 Then read this:
 >The past couple tenday have been very good for the party, and they all have an opportunity to relax. A bright light flashes outside the windows, followed by a roar that rattles the doors and windows of the Manor and Pixiedust Alley. As you rush outside, you see part of [[Corellon's Crown]] smoking and burning, with charred bodies strewn about. Screams fill the air as a thick cloud of acrid smoke billows outward from the blast.
+
+## Session 2 write-up
+- started session with some light role play, discussing what they got and how they levelled up
+- Xerxes hired some kids to clean the tavern with them, paying them 1 cp per kid (10 kids) per week.
+	- They will negotiate to 2 cp, and then 5 cp per kid when they feel they have enough skill
+- Asked the [[Talisolvanar 'Tally' Fellbranch]] to furnish the bar with brand new tables, chairs, and other furniture items
+	- Also asked to build a stage, but said the project must wait while he furnishes the shop. He will also intersperse other jobs in between pieces for their job
+- Met most of the other people in the area
+- While looking through the manor, Xerxes was taking inventory, and opened the privy door to see a gnome that wasn't [[Brindle 'Lickleaf' Nackle]] staring up at him. There weren't really any signs of habitation but the gnome seemed to have holed up in the privy when he heard noises.
+- Odd things were happening while the kids and group were cleaning. Once in a while after you had a dust pile together, it would just scatter. Plates would be smashed, and other mischievous things. When Navreyi called out and said "We are helping clean this place up," the malfeasances ceased. Navreyi found some journal pages of the previous owner that loved the tavern (Lif)
+- While cleaning, the group received several invitations to groups around the city. They joined the harpers and Zhent. Tazpin and Aldarian decided to gain rank in the adventuring guild, solving [[Icy roads in the midst of summer]] for a 200 gp / adventurer.
+	- This occurred after the Zhent fight, and both Xerxes and [[Navreyi]] saw a [[White Mask]] looking upon them from the roofs of nearby buildings
+- The Zhent mission was to stop beheadings of elf and half-elf sailors in the [[Harbor Ward]]
+	- The group, deciding to stake it out, saw a drunken half-elf stumbling down an alley (failing perception checks miserably). A shadow materialized behind him attempting to cut off his head, but the group successfully stopped it.
+	- [[Xerxes (fake) - Fleet Fibblewibble|Xerxes]] got a pistol and 10 poison ammunition (extra 2d10 poison dmg). He needs to find someone to train him.
+	- The group killed the drow gunslinger, and while looting the body, only Xerxes saw a [[White Mask]] on the rooftop, but no one else did
+- The harper mission was talking to Maxeene, a talking mare and [[Harpers|Harper]] contact that had information on some Zhent operatives. Navreyi successfully got and relayed the info to [[Mirt]].
+- A fireball went off at the end of the session.
+- Level up
+## Timeline of session
+- 2 days to level up
+	- spent cleaning n stuff as well
+- 1 for Vajra, Opera, and Zhent mission
+- 1 for Maxeene
+- 2 for icy roads
+- 3 for level up
