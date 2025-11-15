@@ -1,0 +1,12 @@
+- Drow gunslinger
+- small water elemental core
+- 4 ice mephit cores
+- 3 dirges
+- 1 troll
+- 2 goblins
+- Gazer with eye stalks removed
+- Duergar
+- Bandit
+- 2 intellect devourer
+- Half-orc apprentice wizard
+- 
