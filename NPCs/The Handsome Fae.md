@@ -10,4 +10,4 @@ The Handsome Fae received orders from the Hag that grew from the piece of Kronos
 
 The Handsome Fae was told to insert himself with Radelia as a helper to help push her to the fate that brings Kronos back
 
-
+The Handsome Fae was told Aldarian would come to Kronos, and to aid that, and as such, planted the ideas of knowledge and adventure in Aldarian's head from time to time.
