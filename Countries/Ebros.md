@@ -1,0 +1,11 @@
+Ebros is a nation that has developed majorly in the previous 200 years, with the addition of control over the Qinqen river and Wightwater port.
+
+The capital of Ebros (a monarchy w/ a parliamentary), taxes each of the cities a percentage of their incomes on a gradient scale, making smaller towns pay less and bigger towns pay more. For Wightwater, the most prosperous city in Ebros due to its location into the heart of the continent, it's taxed at 40% of its income. Ebros has tariffs of 10% on wood, iron, coal, steel, and wool. 
+
+[[Wightwater]] grosses around 125 million gold per year, and it grows year by year at 5-10% as the city continues to grow and get better at producing fine goods. Taxes on businesses are conducted through the guilds, who keep tabs on each business. The tax on wine is done by the wine guild, food and stuff by the guilds. The fees are exacted on delivery. They also suggest prices for their products. The innkeepers guild handles the property tax, etc. An audit consists of the guild giving auditors paperwork, and the auditors, using the guilds suggested prices and guessing how much product went out. Then, using that number, they use stats to produce a range of "acceptable" income. They also go check prices at the establishment being audited, and try to figure out how much patronage they receive. Finally, all businesses are required to keep track of income and revenue, so they produce those papers and hand them to the auditor, who verifies the "acceptable" range. 
+
+This is all done at random, or if they receive a tip of illegal activities.
+
+Ebros is known for its natural resources, (wood and minerals, etc.) and as such want to support their industries and exports. They have several different types of wood that are sought after worldwide, and have an excellent iron, coal, and steel industry. The rarer minerals (gold and silver) are usually imported, although legend has it the a lot of the land that Ebros controls is supposedly laden with gold. People haven't found it though, just iron and coal.
+
+It also excels in the export of wool and creation of clothes, as well as fine metalworks of steel and iron.
