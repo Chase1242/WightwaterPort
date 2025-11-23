@@ -1,0 +1,2 @@
+# A place between planes, far from each but close to every
+- The Pit of Tartarus is Kronos' prison, one he has experienced for an eternity, yet not that long. It is a place between planes that is close to every plane, yet far away. A large enough prison to hold gods, yet it is small enough as to be hard to find between the planes. As with everything, there are ways around it, but Tartarus is... different, right?

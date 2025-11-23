@@ -1,0 +1,8 @@
+- The Handsome Fae, the form this [Faerie Dragon](https://2014.5e.tools/bestiary.html#faerie%20dragon%20(violet)_mm) likes to take the most, is the form in which he likes to present to the world
+- He was given his Warlock powers by the Great Old One [[Kronos]] through the Hag of Kronos [[Cailleach Mháthair]]
+- He has been around for over 400 years and though is only a Faerie Dragon is a 14-18 CR creature
+- He has been tasked to help bring to fruition the vision that the Hag of Kronos saw, the future that allows Kronos to reform on this plane
+- Through that he had to a couple important things:
+	- He contracted on with [[High Mage Radelia Qinqen]] to help her bring the [[]]
+	- He murdered [[Ahrie Ola Teetons]] family in a gruesome way, with chunks viciously ripped out of her parents heads, and her siblings in a similar way, on orders to retrieve a magical item from her family (tbd)
+	- Along this line, he murdered the [[House Elowyn|Elowyn]] noble family for their well-kept secret trove of magical items - mainly for the [Well of Many Worlds](https://2014.5e.tools/items.html#well%20of%20many%20worlds_dmg) in addition to 10 items rolled from [Magic Item Table G](https://2014.5e.tools/tables.html#magic%20item%20table%20g_dmg) and 3 items from [Magic Item Table H](https://2014.5e.tools/tables.html#magic%20item%20table%20h_dmg). 

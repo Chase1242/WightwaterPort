@@ -99,7 +99,7 @@ Then read this:
 - Asked the [[Talisolvanar 'Tally' Fellbranch]] to furnish the bar with brand new tables, chairs, and other furniture items
 	- Also asked to build a stage, but said the project must wait while he furnishes the shop. He will also intersperse other jobs in between pieces for their job
 - Met most of the other people in the area
-- While looking through the manor, Xerxes was taking inventory, and opened the privy door to see a gnome that wasn't [[Brindle 'Lickleaf' Nackle]] staring up at him. There weren't really any signs of habitation but the gnome seemed to have holed up in the privy when he heard noises.
+- While looking through the manor, Xerxes was taking inventory, and opened the privy door to see a gnome that wasn't [[Tazpin Stararm]] staring up at him. There weren't really any signs of habitation but the gnome seemed to have holed up in the privy when he heard noises.
 - Odd things were happening while the kids and group were cleaning. Once in a while after you had a dust pile together, it would just scatter. Plates would be smashed, and other mischievous things. When Navreyi called out and said "We are helping clean this place up," the malfeasances ceased. Navreyi found some journal pages of the previous owner that loved the tavern (Lif)
 - While cleaning, the group received several invitations to groups around the city. They joined the harpers and Zhent. Tazpin and Aldarian decided to gain rank in the adventuring guild, solving [[Icy roads in the midst of summer]] for a 200 gp / adventurer.
 	- This occurred after the Zhent fight, and both Xerxes and [[Navreyi]] saw a [[White Mask]] looking upon them from the roofs of nearby buildings
@@ -110,10 +110,19 @@ Then read this:
 - The harper mission was talking to Maxeene, a talking mare and [[Harpers|Harper]] contact that had information on some Zhent operatives. Navreyi successfully got and relayed the info to [[Mirt]].
 - A fireball went off at the end of the session.
 - Level up
+- During the events of the session, the news and details of the murder of a minor noble family reach the ears of both [[Brindle 'Lickleaf' Nackle]] and [[Ahrie Ola Teetons]]
+	- The total dead were 5 servants, 4 children of the parents, and the 2 parents
+	- Both parents were tied up
+	- One of the parents is partially stone, with a chunk of their head seemingly torn off
+	- The other just has a hole, similar to the hole in their partners head, ripped off
+	- The servants each had their throats slit
+	- Three guards were found, drooling and unresponsive to all sensory inputs
+	- The (adult) children, were each tied up and seem to have been tortured and killed before the parents
+	- A couple floorboards were yanked up, revealing an empty space, suggesting that there was a chest or some other container hidden there
 ## Timeline of session
-- 2 days to level up
+- 2 days to level up - done on 18th
 	- spent cleaning n stuff as well
-- 1 for Vajra, Opera, and Zhent mission
-- 1 for Maxeene
-- 2 for icy roads
-- 3 for level up
+- 1 for Vajra, Opera, and Zhent mission - 19th
+- 1 for Maxeene - 20th
+- 2 for icy roads - 22nd
+- 3 for level up - 25th

@@ -69,10 +69,10 @@ All while this is happening, there are reports of a war on the distant edge of t
 - **The River Qinqen:**  
 	- Maybe the magical runoff from the machine is slowly polluting or corrupting the river. Eventually, even faint images of hellspawn can be seen on the river at night.
 ## To-do list
-- [ ] Act 1 quests
-- [ ] Session 1 encounter
-	- [ ] fight against some dummies
-- [ ] Act 1 quest encounters/ things
+- [x] Act 1 quests
+- [x] Session 1 encounter
+	- [x] fight against some dummies
+- [x] Act 1 quest encounters/ things
 - [ ] Reasons for higher power parties not being able to help
 - [ ] Come up with what party dies and when
 	- [ ] probs smth like the party came upon smth they shouldn't have so a White Mask was forced to intervene
