@@ -4,3 +4,4 @@
 - Dock Ward to [[Harbor Ward]]
 - Skewered Dragon to [[The Thirsty Goat]]
 - Luskan - [[Dikon]]
+- Lantanese - Caprasian
