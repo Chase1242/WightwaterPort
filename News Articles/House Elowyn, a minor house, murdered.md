@@ -1,5 +1,5 @@
 **TRAGIC SCENE IN THE NORTH WARD: ELOWYN HOUSEHOLD FOUND SLAIN UNDER GRISLY CIRCUMSTANCES**  
-_By Ellisar Thenn, Staff Reporter for the Wightwater Wazoo_
+_By [[Ellisar Thenn]], Staff Reporter for the [[Wightwater Wazoo]]_
 
 Citizens of Waterdeep awoke this morning to chilling news from the usually placid North Ward, where the entire **Elowyn noble household** was discovered slain under circumstances so macabre that even the City Watch has issued requests for calm and discretion. The [[House Elowyn|Elowyns]]—long whispered to possess a trace of **Fey blood** in their lineage—were found dead late last night following a neighbor’s report of strange silence and shuttered lights.
 

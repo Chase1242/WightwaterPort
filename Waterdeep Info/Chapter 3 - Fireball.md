@@ -144,3 +144,4 @@ Page 44
 - Searched for the other nimblewright
 - next day they get news from Renaer about Urstul going to Gralhund Villa
 - Waiting for night to jump in
+- Total - 2.5 - end 27th

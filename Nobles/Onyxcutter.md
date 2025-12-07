@@ -1,0 +1,1 @@
+A major noble family that ascended in the ranks in the previous decade to a major noble family

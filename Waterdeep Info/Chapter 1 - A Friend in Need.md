@@ -346,7 +346,7 @@ Although Renaer is estranged from his rich and powerful father, he still has fri
 	- Wererat
 
 ## Timeline
-Start - 13th of Leirarch, Ignesday, evening, rest one night to the 14th
+Start - 13th of Leirarch, Aquesday, evening, rest one night to the 14th
 1 day to complete the quest 
 Completed  quest next morning - 15th
 2 days of down time (level up to lvl 2) - done on 17th day, start chpt 2 on 18th
