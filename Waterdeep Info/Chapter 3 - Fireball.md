@@ -129,14 +129,114 @@ Page 44
 	- The Zhent leader, Urstul Floxin, was among those who got away. He's still at large. The Watch plans to step up its search for him.
 	- Of the nimblewright, there was no sign. According to the Gralhunds, the construct was delivered to Gralhund Villa weeks earlier. The family took it in, not realizing it was a Zhentarim spy. Lady Gralhund reported that it stole her necklace of fireballs.
 - This is riddled with lies and if the characters raise the question of why would the nimblewright kill Zhents if it was a spy, Cromley suggests it didn't know the power of the necklace
-### G2
-1 cult fanatic and 2 mastiffs, 3 shadows at night
-![[Cult_fanatic.PNG]]
-![[mastiff.PNG]]
-![[shadow.PNG]]
-![[thug.PNG]]
-![[Veteran.PNG]]
+### G1 Locked Gates
+- The ornate iron gates look into the tree-lined yard and paths leading to the mansion and coach house. They’re sealed with _arcane lock_—`DC 25 Strength` to force, `DC 20 thieves’ tools` to pick—and automatically open only for Gralhund family, staff, guards, or the nimblewright.
+### G2 Yard
+The well-kept yard holds large seasonal trees and offers a view of a second-story balcony 20 ft up (DC 15 Athletics to climb). The groundskeeper Hurv (cult fanatic) and two mastiffs patrol; after sundown, all three become **shadows**. A DC 13 Stealth check avoids their notice—otherwise they attack.
 
+**Hurv Taldred (Cult Fanatic)**: AC 13 (leather), HP 33, Spd 30 ft; Multiattack w/ dagger **+3** to hit (dagger 1d4+1). Wis-based caster (spell save DC 11, +3 to hit). Notable spells: _command, inflict wounds, shield of faith, hold person, spiritual weapon_. PP 11. Adv against charmed/frightened 11 14 12 10 13 14; 4 1st lvl slots, 3 2nd; Cantrips (at will): _light, sacred flame, thaumaturgy_
+![[Cult_fanatic.PNG]]
+**2 Mastiffs**: AC 12, HP 5 each, Spd 40 ft; Bite **+3** to hit, 1d6+1 piercing; Keen Hearing/Smell; DC11 tr Save or prone.
+![[mastiff.PNG]]
+
+**Night Form — 3 Shadows**: AC 12, HP 16 each, Spd 40 ft; Strength Drain **+4** to hit, 2d6 + 2 necrotic (reduces Strength 1d4). Resistant to nonmagical attacks, acid, cold, lightning, thunder; PP 10; Vuln to radiant.
+![[shadow.PNG]]
+
+### G3 Coach House
+The coach house holds a pristine coach, four draft horses, and Lady Gralhund’s black riding horse, Maladar, whose saddlebags contain **eight 5-lb gold trade bars (250 gp each)** and **horseshoes of speed**. The exterior door is locked (DC 20 thieves’ tools). Inside are tack, hay, tools, and two cots—Hurv sleeps here by day; Ike the stableboy (commoner) sleeps here at night unless out running errands or drinking.
+
+**Ike (Commoner)**: AC 10, HP 4, Spd 30 ft; Club **+2** to hit, 1d4 bludgeoning; PP 10.
+
+### G4 Guard Barracks
+The guards’ barracks hold ten bunk beds and footlockers with only clothing and trivial personal items. A side room contains empty racks and mannequins for gear—no guards or equipment remain.
+
+### G5 Kitchen
+An unlocked wooden door leads from the yard to the mansion's kitchen, which is stocked with cookware and utensils. A large fireplace is used for cooking meals.
+
+### G6 Pantry
+The pantry is stocked with dry goods, spices, preserves, and casks of water, ale, and wine. A sturdy back door is barred from the inside (DC 20 Athletics to force, loud). Two slain servants—a human butler and a halfling cook—lie on the floor where the Zhents left them.
+
+### G7 Laundry Room
+The laundry room holds wash basins, buckets, soap, mops, and chamber pots. A murdered human head maid lies on the stairs to area G19; her belt carries a **ring of keys** that unlocks all mansion doors and the cabinets in G8.
+
+### G8 Great Hall
+The lavish great hall—chandeliers, long red-larch table, tapestries, cabinets, and a marble-mantled fireplace—is defiled by ten corpses (eight Gralhund guards and two Zhents). Two Zhent **thugs** with bloody maces stand watch and attack anyone unfamiliar on sight. Fighting can be heard upstairs toward G13.
+
+**2 Thugs**: AC 11, HP 32 each; Spd 30 ft; **Multiattack** (mace +5 to hit, 1d6+2 bludgeoning ×2); **Heavy crossbow** +2 to hit, 1d10 piercing; PP 10.
+![[thug.PNG]]
+
+### G9 Parlor
+The parlor is a comfortable sitting room with fine chairs, a chaise longue, a wine cabinet, and portraits of long-dead Gralhunds. Urstul Floxin broke out here, killing the two Gralhund guards whose bodies now lie on blood-soaked rugs.
+
+### G10 Den and Trophy Room
+The den is decorated with mounted beast heads, empty suits of armor, bearskin rugs, and plush chairs. A hooded falcon in a small cage sits on a central table—Lord Gralhund’s newest hobby.
+
+**Falcon (use Hawk stats)**: AC 13, HP 1, Spd 10 ft / fly 60 ft; Talons **+5** to hit, 1 slashing; Keen Sight.
+
+### G11 Orond's Study
+Orond’s study is locked (DC 15 thieves’ tools to pick) and contains a wrestling mat, velvet armchairs, statues, tall bookshelves, and a mostly unused mahogany desk. Most books are fake boxes; a few hide bawdy drawings or poems.
+
+### G12 Family Library
+The family library is wood-paneled with tall bookshelves, sliding ladders, two padded chairs by a fireplace, and an iron lectern holding a locked leather-bound tome. Most books are mundane; the tome chronicles the Gralhund family and is magically protected—opening it without Lady Gralhund’s key (or magic like _knock_) summons **three specters** for 1 minute.
+
+**Locked Tome Trap**: DC 15 Dexterity (thieves’ tools) to pick; triggers 3 specters (ghostly tieflings, 22 HP each, AC 12, Resist: acid, cold, fire, lightning, thunder, nonmagical bps. Life Drain +4 to hit, 3d6 necrotic, DC10 Con save or have max hp reduced by amount taken until long rest) if opened improperly.
+![[specter.PNG]]
+
+### G13 Upstairs Foyer
+The upstairs foyer is the site of an ongoing battle: four House Gralhund veterans (30 HP each) defend against three Zhent thugs (20 HP each) trying to reach the master bedroom (G16). The doors are open to [[#G15a]] and [[#G16]]. The characters can here someone kicking another door in G15a Eight corpses (six guards, two Zhents) litter the floor. If unattended, the fight ends with three veterans alive and all Zhents dead.
+
+![[Veteran.PNG]]
+![[thug.PNG]]
+### G14 Ballroom
+The locked ballroom (`DC 15 thieves’ tools`) is empty and lavishly decorated with mirrors, tapestries, stained-glass lamps, crystal chandeliers, a glass stag head over the fireplace, and a veined marble floor. The ceiling mural depicts an orgy.
+
+### G15
+**Urstul Floxin (reduced)**: AC 16, HP 50, Spd 30 ft; Multiattack: shortsword +6, 1d6+3 piercing; uses other surviving Zhents to cover escape; CR 3 (700 XP).
+
+**Flying Snakes (3)**: AC 13, HP 5 each, Spd 30 ft / fly 60 ft; Bite +4, 1d4+2 piercing, Poison DC 11 (note: used only for messaging, not combat).
+#### G15a
+The guest suite consists of a bathroom (G15a) where Urstul Floxin, wounded (50 HP, CR 3), attempts to break into the bedroom (G15b) and a wood-paneled bedchamber blocked by Lord Gralhund with furniture.
+![[Assassin.png]]
+
+#### G15b
+The door to G15b requires a successful DC 18 Strength (Athletics) check.
+G15b contains a birdcage holding three **flying snakes** for messages and a permanent **teleportation circle** used by Manshoon to move Zhents. Orond Gralhund cowers behind the bed and will surrender if confronted, providing intel on the Stone of Golorr, Black Network activities, and Lady Gralhund’s actions if successfully intimidated (DC 10 Charisma, disadvantage if she can see/hear).
+
+### G16 Master Bedroom
+The master bedroom is occupied by **Lady Yalah Hollandor** (breastplate, rapier) and her half-orc bodyguard **Hrabbaz**, standing near a large canopied bed with a locked trunk (`DC 15 thieves’ tools`). Lady Gralhund carries a **ring of keys** for all mansion doors and the trunk; `DC 15 Wisdom (Perception) check` the trunk’s secret compartment holds **two Asmodeus holy symbols and two red-and-gold robes**. A claw-footed bathtub, wardrobe, fireplace, and balcony are also present. Lady Gralhund and Hrabbaz know the **nimblewright’s escape route** with the Stone of Golorr but feign ignorance. The
+
+![[Hrabbaz.png]]
+![[Noble.png]]
+
+### G17. BALCONY 
+This large balcony is enclosed by an ornate wrought-iron railing and has lounge chairs neatly arranged on it. The ground is 20 feet below, and open glass doors lead to the master bedroom (area [[#G16 Master Bedroom]]).
+
+### G18 Children's Room
+The locked children’s room (DC 15 thieves’ tools) contains three beds, an empty cradle, wardrobes, play rugs, and desks. The Gralhunds’ two youngest children—**Zartan (13)** and **Greth (10)**—are inside as noncombatants; their 18-year-old sister Tomassin is away visiting a tiefling cousin.
+
+### G19 Servant's Wing
+The servants’ wing has three sleeping rooms; the head butler and head maid’s rooms are empty. The largest room holds six bunk beds where **nine junior staff (commoners)** are hiding, armed with improvised weapons (treated as clubs).
+
+## Aftermath
+The nimblewright escapes with the Stone of Golorr, hiding it in the [[Cassalanter's]] Mausoleum, setting up [[Chapter 4 - Dragon Season]].
+
+The City Watch (and [[Barnibus Blastwind]] and [[Saeth Cromley]]) are called to the scene of the crime, with twenty vets and two griffon cavalry riders. Barnibus thoroughly investigates the scene of the crime, interrogating bystanders and neighbors. If the characters killed any of members of the Hollandor family AND leaves witnesses/evidence, Barnibus instructs Sergeant Cromley to arrest the party for the crime of murdering a noble. If guilty, death sentence. If guilty, THF saves the party with an order to release them at once.
+
+## Loose Ends
+- City Watch cracks down on the Zhent, arresting and interrogating them, even [[Davil Starsong]]. The newspapers pile on, making the Zhent look horrible, crippling the factions rep
+
+### Encounter with [[Istrid Horn]]
+- After the events at Gralhund Villa, the characters are contacted by **Istrid Horn** via a flying snake messenger delivering a short note: she wants to know what happened at the villa and requests a meeting at **Ahghairon’s Statue** in the City of the Dead at high sun the next day. She offers **10 pp up front** for attending, with another **40 pp** promised if the characters agree to help her remain hidden for ten and a half days.
+>I would like to know more about what happened at Gralhund Villa. If you can spare the time, meet me at Ahghairon’s Statue in the City of the Dead at highsun tomorrow. You'll be paid generously for your time and trouble. - Istrid Horn
+
+- Ahghairon’s Statue is a public and safe meeting spot: a tall marble figure of the famous wizard, with steps leading up to it and a wide smile, overlooking the Waterdeep skyline. On arrival, the characters see **Istrid herself**, a female dwarf in plate armor. Successful **DC 15 Insight checks** reveal that she is alone and cautious—she fears arrest by the City Watch not for the villa incident, but because the ongoing investigation might expose her **illegal currency-lending operation**.
+>Ahghairon's Statue is a well-known landmark in the city's parkland cemetery: a tall, marble sculpture of a bearded. robed wizard standing atop concentric steps and facing west toward the skyline of Wightwater, his hands outstretched and a broad smile on his face. At the foot of the statue stands a female dwarf clad in plate armor.
+
+- If the characters agree to help her, she uses a **disguise kit** to pose as a male dwarf named Jorn while hiding out in their tavern or another safe location. She may perform chores to help blend in, but she grows increasingly **testy and demanding** over time. If tolerated, she leaves after the ten and pays the remaining **40 pp**. Harboring her also benefits **Zhentarim-affiliated characters**, increasing their faction renown by 2.
+
+- If the characters betray her—by expelling her, turning her in, or harming her—**Istrid becomes their mortal enemy**. She has shared her plans with the Doom Raiders, her former adventuring companions, who use subtle but effective means to retaliate: scaring off clientele, sabotaging business, and creating trouble within and beyond Waterdeep, though the city’s laws prevent direct attacks.
+
+## Level up if they influenced Gralhund Villa
 ## Timeline
 - Start evening
 - 1 day to search for Nim and get the nimblewright detector
