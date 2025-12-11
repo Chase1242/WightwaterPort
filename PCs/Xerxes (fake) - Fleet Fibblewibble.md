@@ -14,6 +14,7 @@ A Tiefling is a sign. Physical evidence of a forbidden Pact. My parents could be
 ## DM Notes
 - Biological parents are the [[Cassalanter's]]
 - Being assigned to investigate the burgeoning war between the [[Zhentarim]] and [[Xanathar Guild]] and find the main actors
+- Father is [[Corwin FibbleWibble]]
 
 ## Player notes
 ### From [[Chapter 1 - A Friend in Need|Chapter 1]] of Waterdeep: Dragon Heist

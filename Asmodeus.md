@@ -1,0 +1,2 @@
+- The King of the Hells, that used [[Titivilus]] to broker a deal with [[High Mage Radelia Qinqen]].
+- He promised Titivilus a powerful spot on the material plane for his help and obedience

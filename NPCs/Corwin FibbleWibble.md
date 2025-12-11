@@ -20,7 +20,7 @@ Corwin is [[Xerxes (fake) - Fleet Fibblewibble|Fleet's]] adoptive father.
 ## Larger relation to the story
 - Two real options to tie Corwin into the story
 - A) Kill him off via THF - he was getting too close to the truth about [[High Mage Radelia Qinqen]] and THF was dispatched to silence him
-- B) He was too close to finding out about the Cassalanter's ties to Dispater and Titivilus (which in turn leads to Radelia someway)
+- B) He was too close to finding out about the Cassalanter's ties to [[Asmodeus]] and Titivilus (which in turn leads to Radelia someway)
 ### The way to do it
 - As Corwin has suspected the Cassalanter's for several years, he has never had concrete evidence. In the recent month, in an investigation into a fraud report of the Cassalanter's, he finally had credible evidence to look into some of the sealed documents of the Cassalanter's. This afforded him the knowledge that the Cassalanter's had three children, the first of which had a birthday similar to Fleet's, and two girls who are younger than Fleet. 
 - The Cassalanter's have to be notified when their sealed records are accessed, and by whom
@@ -29,4 +29,4 @@ Corwin is [[Xerxes (fake) - Fleet Fibblewibble|Fleet's]] adoptive father.
 		- They also think they can add him to one of the 99 souls for their sacrifice easily
 	- He is kidnapped and his house ransacked
 	- A newspaper is put out about the disappearance of a magistrate and Fleet receives a letter from Corwin about his history
-	- Tie the Cassalanter's to Dispater and Titivilus - with some circumstantial ties to Radelia somehow
+	- Tie the Cassalanter's to Asmodeus and Titivilus - with some circumstantial ties to Radelia somehow

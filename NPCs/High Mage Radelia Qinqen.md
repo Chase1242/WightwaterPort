@@ -26,7 +26,7 @@
 - **Expedition from [[Ebros]]** to stop elemental incursions in Yttria.
 - **Discovered rift** to the Elemental Planes, guarded by a titanic Earth elemental.
 - During the battle, **Sagillus Wightwater was wounded and would have died**.
-- **Radelia, in desperation, made a deal** with the devil Titivilus:
+- **Radelia, in desperation, made a deal** with the devil Asmodeus, brokered by Titivilus:
   - Power to destroy the elementals and save [[Sagillus Wightwater]].
   - A lock of her hair.
   - A promise: **"An equal offering for each elemental cleansed."**
@@ -75,9 +75,9 @@ To address the chaos, Ebros dispatched elite adventuring parties to investigate 
 
 After weeks of perilous travel, they found the source: a tear between the **Material Plane** and the **Elemental Planes**, guarded by a massive **Earth elemental**, more ancient than time. Elementals poured from the breach, making settlement impossible.
 
-But the adventurers were not alone. In secret, the archdevil **Titivilus** had already taken an interest in Radelia. Sensing her brilliance and her boundless hunger for understanding, he began whispering to her in meditation. His voice was never heard, only felt — the shiver of an idea that felt like her own.
+But the adventurers were not alone. In secret, the archdevil **Asmodeus** had already taken an interest in Radelia. Sensing her brilliance and her boundless hunger for understanding, he began whispering to her in meditation. His voice was never heard, only felt — the shiver of an idea that felt like her own.
 
-It was **Titivilus** who destabilized the Elemental Planes and **timed the flood** to reach its peak as the party arrived. As they prepared to seal the breach, the rift erupted. The Earth elemental fell, and **Sagillus was mortally wounded**. Planar magic screamed as the tear tried to collapse inward, threatening to take the Material with it.
+It was **Asmodeus** who destabilized the Elemental Planes and **timed the flood** to reach its peak as the party arrived. As they prepared to seal the breach, the rift erupted. The Earth elemental fell, and **Sagillus was mortally wounded**. Planar magic screamed as the tear tried to collapse inward, threatening to take the Material with it.
 
 > _“Say the words…”_
 
@@ -124,7 +124,7 @@ They served as her enforcers, spies, assassins—and above all, collectors of **
 
 Yet despite her secrecy, Radelia believed she was still doing good. That the ends justified the means. That the **Arcane Engine** would protect Wightwater in its darkest hour. She was cleaning up the streets and protecting other innocent people.
 
-But Titivilus had _not_ been idle.
+But Titivilus had _not_ been idle (on Asmodeus's orders).
 
 His whispers subtly shaped the machine’s design, introducing a flaw—a backdoor of sorts. Though powered by souls, **the engine also thins the barrier between the Material Plane and the Hells**, bleeding infernal energy with every activation.
 
@@ -169,7 +169,7 @@ And the devil’s price is coming due.
     
     - Time freezes.
         
-    - Titivilus offers her power to save the party and seal the rift.
+    - Titivilus offers her power from Asmodeus to save the party and seal the rift.
         
     - The price: **a lock of her hair** and a **future sacrifice**.
         
@@ -242,6 +242,6 @@ And the devil’s price is coming due.
     
 - Still unaware that the Engine’s flaw is **causing the Hells to bleed into the world**.
     
-- **Titivilus waits**, ready to claim the price when the machine fully opens the door.
+- **[[Asmodeus]] waits**, ready to claim the price when the machine fully opens the door.
 ## [[The Handsome Fae]]
 - Hired the Handsome Fae for his magical prowess and knowledge, also doing her bidding and carrying out the "dirtier" task, like finding the [Well of Many Worlds](https://2014.5e.tools/items.html#well%20of%20many%20worlds_dmg). 

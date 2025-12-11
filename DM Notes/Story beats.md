@@ -59,9 +59,10 @@ All while this is happening, there are reports of a war on the distant edge of t
 - Originally, when sent to explore, Sagillus, Radelia, and a couple others were out on a mission (with other adventuring parties) to explore the wilderness and find the source of the elementals on the plane. 
 	- The elementals don't allow a fair chunk of land to be settled in ([[Yttria]])
 	- Eventually, they find a mountain-like Earth elemental that guards the rip between the planes, and close it after dispersing of it
-- Titivilus, a cunning, scheming devil, seeing the latent power within Radelia, knew she would be prime to push over the edge to make a favorable deal
+- [[Asmodeus]], a cunning, scheming devil, seeing the latent power within Radelia, knew she would be prime to push over the edge to make a favorable deal
+	- He gets [[Titivilus]] on board with his plane and has him do his bidding
 	- He starts whispering in her ear from the moment she leaves the capital of [[Ebros]], a few words while she meditates her and a few there, to sow doubt and push her to the edge.
-	- Titivilus would also orchestrate a raiding of the elemental planes to shove them through the portal to make Radelia's despair overwhelming.
+	- Asmodeus would also orchestrate a raiding of the elemental planes to shove them through the portal to make Radelia's despair overwhelming.
 	- In the process of them closing the rip, Sagillus is struck down and elementals, sensing the portal closing with magic on the other side of that, start flooding through the gate. When all seems lost, tickle in the back of her mind, gets her to utter the phrase "I want to make a deal!"
 	- Time slows, comes to a halt, and Titivilus (who is disguised to not look so devil-like) walks through and offers her power to scour the elementals away and close the portal (along with let's say, a 2 level increase) in return for a lock of her hair and the promise to see Titivilus in the future for an "appropriate sacrifice"
 - Party encounters a white mask having just killed another adventuring party
