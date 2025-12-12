@@ -1,0 +1,1 @@
+Gold Dragon who protects the hidden vault of dragons. In possession of [[Dragonstaff of Ahghairon]]

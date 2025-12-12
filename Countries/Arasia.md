@@ -1,0 +1,1 @@
+A small country that despises slavery and produces militant forces to free slaves and bring down slavery institutions. A collection of city-states with a wide agreement to help each other but still be independent.

@@ -5,3 +5,5 @@
 - Skewered Dragon to [[The Thirsty Goat]]
 - Luskan - [[Dikon]]
 - Lantanese - Caprasian
+- City of the Dead - [[Catacombs of the Eternal Vigil]]
+- Tethryian - Arasian ([[Arasia]])

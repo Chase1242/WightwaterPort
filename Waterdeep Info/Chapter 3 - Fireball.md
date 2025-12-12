@@ -117,7 +117,7 @@ Page 44
 	- Two City Watch constables spoke to Lord Gralhund. He assured them that no one had broken into the estate and that everything was fine. The constables had no grounds to get a search warrant, so they didn't pursue the matter.
 ## Gralhund Villa
 - [[Yalah Hollandor]] is confronted by Urstul, who is mad the nimblewright interfered, and on a whim, she wrests the Stone from Urstul at sword point and orders her guards to lock him up until she decides what to do with him
-- If the Cassalanters are the main villains, Yalah is a fawning member of their Asmodeus-worshiping cult and intends to deliver the Stone of Golorr to them as a demonstration of her fealty and friendship
+- If the Cassalanter's are the main villains, Yalah is a fawning member of their Asmodeus-worshiping cult and intends to deliver the Stone of Golorr to them as a demonstration of her fealty and friendship
 - Having gravely underestimated Lady Hollandor once, Urstul manages to rally and kill two of the inattentive Hollandor guards, alerting the other Zhent, who begin dispatching the other guards and servants.
 - Yalah gives the Stone to the nimblewright and has it flee
 #### Let the Watch handle Gralhund
@@ -226,7 +226,7 @@ The City Watch (and [[Barnibus Blastwind]] and [[Saeth Cromley]]) are called to 
 - City Watch cracks down on the Zhent, arresting and interrogating them, even [[Davil Starsong]]. The newspapers pile on, making the Zhent look horrible, crippling the factions rep
 
 ### Encounter with [[Istrid Horn]]
-- After the events at Gralhund Villa, the characters are contacted by **Istrid Horn** via a flying snake messenger delivering a short note: she wants to know what happened at the villa and requests a meeting at **Ahghairon’s Statue** in the City of the Dead at high sun the next day. She offers **10 pp up front** for attending, with another **40 pp** promised if the characters agree to help her remain hidden for ten and a half days.
+- After the events at Gralhund Villa, the characters are contacted by **Istrid Horn** via a flying snake messenger delivering a short note: she wants to know what happened at the villa and requests a meeting at **Ahghairon’s Statue** in [[The Sentinel's Rest Park]] above the [[Catacombs of the Eternal Vigil]] at high sun the next day. She offers **10 pp up front** for attending, with another **40 pp** promised if the characters agree to help her remain hidden for ten and a half days.
 >I would like to know more about what happened at Gralhund Villa. If you can spare the time, meet me at Ahghairon’s Statue in the City of the Dead at highsun tomorrow. You'll be paid generously for your time and trouble. - Istrid Horn
 
 - Ahghairon’s Statue is a public and safe meeting spot: a tall marble figure of the famous wizard, with steps leading up to it and a wide smile, overlooking the Waterdeep skyline. On arrival, the characters see **Istrid herself**, a female dwarf in plate armor. Successful **DC 15 Insight checks** reveal that she is alone and cautious—she fears arrest by the City Watch not for the villa incident, but because the ongoing investigation might expose her **illegal currency-lending operation**.
