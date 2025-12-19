@@ -1,6 +1,6 @@
-This minor noble human family, was brutally murdered by [[The Handsome Fae]], on orders from both [[High Mage Radelia Qinqen]] and [[Cailleach Mháthair]]. Radelia (and the hag) wanted the [Well of Many Worlds](https://2014.5e.tools/items.html#well%20of%20many%20worlds_dmg). The other stuff hidden in the cache was just a plus for Radelia to draw magic from.
+This minor noble human family, was brutally murdered by [[The Handsome Fae (AKA Moonbean)]], on orders from both [[High Mage Radelia Qinqen]] and [[Cailleach Mháthair]]. Radelia (and the hag) wanted the [Well of Many Worlds](https://2014.5e.tools/items.html#well%20of%20many%20worlds_dmg). The other stuff hidden in the cache was just a plus for Radelia to draw magic from.
 
-## Items stolen by [[The Handsome Fae]]
+## Items stolen by [[The Handsome Fae (AKA Moonbean)]]
 - [Well of Many Worlds](https://2014.5e.tools/items.html#well%20of%20many%20worlds_dmg)
 - [Ring of Regeneration](https://2014.5e.tools/items.html#ring%20of%20regeneration_dmg)
 - [Manual of Bodily Health](https://2014.5e.tools/items.html#manual%20of%20bodily%20health_dmg)

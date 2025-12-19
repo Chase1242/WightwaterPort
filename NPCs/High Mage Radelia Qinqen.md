@@ -243,5 +243,8 @@ And the devil’s price is coming due.
 - Still unaware that the Engine’s flaw is **causing the Hells to bleed into the world**.
     
 - **[[Asmodeus]] waits**, ready to claim the price when the machine fully opens the door.
-## [[The Handsome Fae]]
+## [[The Handsome Fae (AKA Moonbean)]]
 - Hired the Handsome Fae for his magical prowess and knowledge, also doing her bidding and carrying out the "dirtier" task, like finding the [Well of Many Worlds](https://2014.5e.tools/items.html#well%20of%20many%20worlds_dmg). 
+- He also coincidentally got the Mirror of Life Trapping - allowing her to trap the chain devil in the mirror that was housed in the [[Cassalanter's]] mansion.
+## Leader of the Cult of Asmodeus in the city, secretly
+- Radelia leads the cult, even though the [[Cassalanter's]] are the figureheads, thus she knows what is going on with [[Corwin FibbleWibble]] and [[Xerxes (fake) - Fleet Fibblewibble|Fleet]]. 

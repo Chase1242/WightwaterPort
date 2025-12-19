@@ -3,4 +3,4 @@
 - The hag, drawn to the immense power this sliver held, tried to control the piece and wield it to make her stronger, but one must be supremely strong to resist the will and power of Kronos, even this sliver, and so the Night Hag fell into a deep slumber, slowly changing while the sliver of Kronos changed what this Night Hag was, into something more formidable. Known among hags as Cailleach Mháthair, she is the strongest hag on this plane, slowly spreading the will of Kronos.
 - When she awoke, changed by Kronos, she awoke in time to divine a warbled interaction between [[Zufosu]] and the [[Oracle of Change]], depicting the three paths this plane were heading down, but only catching pieces of the information.
 - Using this knowledge, she found a fae, lost and wandering, and won him over with promises of power
-- This is who became [[The Handsome Fae]]
+- This is who became [[The Handsome Fae (AKA Moonbean)]]

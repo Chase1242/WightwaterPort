@@ -2,10 +2,21 @@
 - He was given his Warlock powers by the Great Old One [[Kronos]] through the Hag of Kronos [[Cailleach Mháthair]]
 - He has been around for over 400 years and though is only a Faerie Dragon is a 14-18 CR creature
 - He has been tasked to help bring to fruition the vision that the Hag of Kronos saw, the future that allows Kronos to reform on this plane
-- Through that he had to a couple important things:
+- Through that he had to do a couple important things:
 	- He contracted on with [[High Mage Radelia Qinqen]] to help her bring the [[MBCSC]] to life
 	- He murdered [[Ahrie Ola Teetons]] family in a gruesome way, with chunks viciously ripped out of her parents heads, and her siblings in a similar way, on orders to retrieve a magical item from her family (tbd)
 	- Along this line, he murdered the [[House Elowyn|Elowyn]] noble family for their well-kept secret trove of magical items - mainly for the [Well of Many Worlds](https://2014.5e.tools/items.html#well%20of%20many%20worlds_dmg) in addition to 10 items rolled from [Magic Item Table G](https://2014.5e.tools/tables.html#magic%20item%20table%20g_dmg) and 3 items from [Magic Item Table H](https://2014.5e.tools/tables.html#magic%20item%20table%20h_dmg). 
 	- The Handsome Fae was told Aldarian would come to Kronos, and to aid that, and as such, planted the ideas of knowledge and adventure in Aldarian's head from time to time.
 	- When Radelia noticed [[Tazpin Stararm]] jumping around the planes - following his magical residue, THF ambushed him, taking him to the MBCSC to sap his magical energy to help power the machine. 
 	- He helps Radelia but works on installing something that will let him open up the portal to the [[Pit of Tartarus]] instead of the Hells, pulling all of Kronos into the plane
+## [[Corwin FibbleWibble|Corwin]] and [[Xerxes (fake) - Fleet Fibblewibble|Fleet]]
+- THF learns about the kidnapping of Corwin through, causing a dastardly plan to form in his mind
+- He will follow the party into the mansion as they try to retrieve the [[Stone of Golorr]] from the [[Cassalanter's]]. As such, he will be set up to be sacrificed as one of the 99 souls for [[Asmodeus]]. 
+- Knowing that Fleet loves his adoptive father and that Fleet is imperative to the plan to open the portal to the Hells, he can ensure that Corwin dies in one way or another. His soul reaped by some infernal chains (the chains that bound the Chain Devil that is currently in the Mirror of Life Trapping in Radelia's lair)
+- THF, thinking himself strong enough to handle the party, carries a letter signed "RQ". The letter is detailed here: [[Cryptic note containing orders]]
+- The situation Corwin is in:
+	- He has been poisoned by the [[Cassalanter's]]
+	- He is in the middle of a pentagram drawn in blood, and each round the blood grows brighter. At completion his soul is reaped
+	- If they remove him from the pentagram, he still might die due to the poisoning
+	- If they fight THF and Corwin dies, the letter drops, otherwise, Corwin would tell them he some information (he saw High Mage Radelia in the mansion briefly)
+	- Corwin must try to speak, to let them know some partial bit of info "The High Mage... she... she was h...." or something

@@ -24,6 +24,8 @@ If they are out at night, there is a 60% chance the party is being followed by a
 ## Chapter 2
 ---
 This is TBD based on the [[Factions PCs may join]]. Will differ based on each quest (I will probably weave an interaction with a [[White Mask]]/a slow spell into one or two of the quests).
+
+I did not.
 ## Chapter 3
 ---
 
