@@ -7,3 +7,4 @@
 - Lantanese - Caprasian
 - City of the Dead - [[Catacombs of the Eternal Vigil]]
 - Tethryian - Arasian ([[Arasia]])
+- Kozakura - [[Kingdom of Thepina]] (Thepinan)

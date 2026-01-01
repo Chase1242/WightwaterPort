@@ -237,6 +237,7 @@ The City Watch (and [[Barnibus Blastwind]] and [[Saeth Cromley]]) are called to 
 - If the characters betray her—by expelling her, turning her in, or harming her—**Istrid becomes their mortal enemy**. She has shared her plans with the Doom Raiders, her former adventuring companions, who use subtle but effective means to retaliate: scaring off clientele, sabotaging business, and creating trouble within and beyond Waterdeep, though the city’s laws prevent direct attacks.
 
 ## Level up if they influenced Gralhund Villa
+To level 4 if they fight at Gralhund
 ## Timeline
 - Start evening
 - 1 day to search for Nim and get the nimblewright detector
