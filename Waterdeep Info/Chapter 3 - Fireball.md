@@ -158,7 +158,6 @@ The pantry is stocked with dry goods, spices, preserves, and casks of water, ale
 
 ### G7 Laundry Room
 The laundry room holds wash basins, buckets, soap, mops, and chamber pots. A murdered human head maid lies on the stairs to area G19; her belt carries a **ring of keys** that unlocks all mansion doors and the cabinets in G8.
-
 ### G8 Great Hall
 The lavish great hall—chandeliers, long red-larch table, tapestries, cabinets, and a marble-mantled fireplace—is defiled by ten corpses (eight Gralhund guards and two Zhents). Two Zhent **thugs** with bloody maces stand watch and attack anyone unfamiliar on sight. Fighting can be heard upstairs toward G13.
 
@@ -208,7 +207,7 @@ The master bedroom is occupied by **Lady Yalah Hollandor** (breastplate, rapier)
 ![[Hrabbaz.png]]
 ![[Noble.png]]
 
-### G17. BALCONY 
+### G17. Balcony 
 This large balcony is enclosed by an ornate wrought-iron railing and has lounge chairs neatly arranged on it. The ground is 20 feet below, and open glass doors lead to the master bedroom (area [[#G16 Master Bedroom]]).
 
 ### G18 Children's Room
@@ -236,6 +235,42 @@ The City Watch (and [[Barnibus Blastwind]] and [[Saeth Cromley]]) are called to 
 
 - If the characters betray her—by expelling her, turning her in, or harming her—**Istrid becomes their mortal enemy**. She has shared her plans with the Doom Raiders, her former adventuring companions, who use subtle but effective means to retaliate: scaring off clientele, sabotaging business, and creating trouble within and beyond Waterdeep, though the city’s laws prevent direct attacks.
 
+## Letter from [[Corwin FibbleWibble]]
+A letter from someone lays on the mostly re-finished bar and the letter is addressed to a "Fleet"
+
+The letter from Corwin reads
+>**To Fleet Fibblewibble,**  
+by my hand and seal,
+
+>I seem to have missed your presence at your new tavern, so I opted to instead leave a written correspondence (although, a sending message might have done just as well, though I am limited to 25 measly words).
+
+>It is my sincere hope—indeed, my earnest expectation—that this letter should find you in a state of health both bodily and spiritual, and that your present circumstances are not unduly complicated by the many small inconveniences that seem, of late, to follow those of your age and temperament with uncommon persistence.
+
+>I write to you not out of idle inclination, nor from any paternal impulse toward unnecessary worry (a failing I have been accused of before, though unjustly, I maintain), but rather from a position of careful deliberation, having weighed the propriety of silence against the obligation of prudence—and finding the latter, in this instance, regrettably victorious.
+
+>There are matters presently under my review which, while outwardly routine in appearance and origin, have demonstrated a tendency to intersect with affairs of a more… _sensitive_ nature than one might reasonably expect from the public record alone. It would be both improper and ill-advised to commit such matters fully to ink, and I will therefore refrain from articulating them here in any explicit fashion. Suffice it to say, however, that certain inquiries have arisen whose implications touch closer to home than I would prefer.
+
+>You, my boy, are not the cause of these inquiries—nor are you, in any legal or moral sense, implicated by them. That said, it would be dishonest of me to suggest that they bear no relevance to you whatsoever. I take no pleasure in that fact.
+
+>Accordingly, I would very much like for you to visit me at your earliest reasonable convenience, so that we may speak in person, where words may be chosen with greater care, and where misunderstandings are less likely to arise from the cold and imprecise nature of written correspondence. This is not a summons, nor should it be taken as cause for alarm—only as a request born of concern, foresight, and a father’s desire to ensure that his son remains as well-informed and well-protected as circumstances allow.
+
+>Until such time as we may speak face to face, I would advise only discretion, moderation, and a healthy skepticism toward coincidence. You have always been quick of mind; now would be a good time to also be cautious of step.
+
+>Know that whatever truths may surface, my regard for you remains unchanged, and my hope for your future undiminished.
+
+>It would be remiss of me not to note that recent professional circumstances have made privacy a more theoretical concept than I would prefer.
+
+>With abiding affection, and all due propriety,
+
+>**Corwin FibbleWibble**  
+>Magistrate of the City  
+>_(and your father, always)_
+
+## Corwin's House
+Corwin's house is a two story, slate-roofed house, with fading blue paint on the outside. Inside is a two bedroom house that shows moderate wealth, but not overly flashy. His office is a clutter of papers and folders, with written notes on papers by Corwin in a neat script. 
+
+
+[[Corwin FibbleWibble]]
 ## Level up if they influenced Gralhund Villa
 To level 4 if they fight at Gralhund
 ## Timeline

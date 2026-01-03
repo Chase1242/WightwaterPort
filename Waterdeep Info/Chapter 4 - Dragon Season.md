@@ -54,6 +54,8 @@ Rooms in the mausoleum have 8-foot-high ceilings, with 6-foot-high passages and 
 The door into the mausoleum is locked, and requires a successful `DC 15 Thieves' Tools` check or `DC 25 Athletics Check`. The [[Cassalanter's|Cassalanter]] family emblem is emblazoned on the floor between 4 coffins. A successful `DC 20 Intelligence (Investigation) check` reveals that it has been opened recently, as evidenced by dirt smears on the door.
 #### M2: Underground Crypts
 Three cultists lay on the floor, two dead and one left for dead but unconscious. If Vaelle Lurval (LE, female, Arasian cultist) is healed, she regains consciousness and reveals Arn Xalrondar and Seffia Naelryke would likely have taken it to an old lumber mill, a meeting point in the [[Southlums]], where there are some ceremonies worshipping [[Asmodeus]]. If at or near full health, will offer to come with to avenge her bd, Holiver Tornrudder, or she will offer directions. She believes
+
+![[cultist.png]]
 ### 10: Converted Windmill
 This crumbling, two-story stone building was a windmill long before the city rose up around it. The following features apply unless an area description or encounter states otherwise: 
 - Rooms have 15-foot-high ceilings, with 10-foot-high passages and 7-foot-high doorways connecting them. 
@@ -83,6 +85,8 @@ This apartment is in good repair and contains the following features:
 Arn Xalrondar and Seffia Naelryke await inside.
 #### W8. Back Room
 The section of conical roof directly above this chamber has mostly collapsed. The debris from the collapse has been cleared, and a pentagram in blood with black globs of wax at each point lays in the center of the room.
+
+![[Cult_fanatic.PNG]]
 #### Summer
 The characters head to a decrepit building in the Southern Ward that used to be a windmill. Therein, they expect to find the Stone of Golorr in the clutches of two treacherous cult fanatics named Arn Xalrondar (LE male Tethyrian human) and Seffia Naelryke (LE female Arasian human).
 #### Cult fanatics
@@ -96,6 +100,7 @@ If the characters deal with the cult fanatics, they can chase after the fieeing 
 The characters are trying to catch up with three spined devils that keep low above the rooftops, so as not to be seen by Wightwater's Griffon Cavalry. The devils are 100 feet away from the characters at the start of the chase. 
 If the devil carrying the Stone of Golorr becomes incapacitated, another devil snatches the stone and flees with it.
 ![[Rooftop_Chase_Complications.png]]
+![[Spined_Devil.png]]
 #### Next Encounter
 When the characters are close to getting the stone, or when you want the chase to end, all remaining spined devils duck into an alley. If the characters lose their quarry, they can question city folk on the ground who saw where the devils went. Continue with encounter 1, "Alley."
 ### 1: Alley
@@ -117,6 +122,8 @@ When he sees the characters, Willifort orders the imps and the spined devils to 
 
 The hire-coach has AC 14, 45 hit points, and immunity to poison and psychic damage. If there's any chance that the characters might obtain the Stone of Golorr as the encounter progresses, Willifort orders the driver to move the hire-coach out of the alley as quickly as possible. If the driver is incapacitated or killed, the bearded devil climbs into the driver's seat on the back of the coach and steers the vehicle. If the bearded devil is unable to replace the driver, the doppelganger takes the reins. Willifort flees on foot if the hire-coach is destroyed or its horses are unable to move.
 
+![[Bearded_Devil.png]]
+
 If Willifort escapes and the characters pursue him, go to next encounter
 ### 3: Street Chase
 For this encounter, use the chase rules and the Urban Chase Complications table in chapter 8 of the Dungeon Master's Guide. The chase plays out as a "theater of the mind" experience. Consequently, you don't need a map to run the encounter. The chase occurs outdoors, so be mindful of any weather effects in play.
@@ -125,6 +132,7 @@ The characters are pursuing Lord Cassalanter's doppelganger valet, Willifort, as
 #### Crowded Street
 If Willifort flees in a hire-coach, his getaway is thwarted on the third round of the chase when a large crowd blocks the road, forcing the hire-coach to stop. (If the chase occurs on Founders' Day, the crowd is part of the holiday celebration.) The doppelganger jumps out of the hire-coach on his next turn and makes his way through the crowd on foot.
 Any creature in the crowd has half cover, and any attack that misses the creature because of the cover hits an innocent commoner instead. If Willifort is incapacitated, a raven abruptly swoops down, acting next in the initiative count. It snatches the stone and flees with it. This raven is a shape changed imp that works for Lady Cassalanter.
+![[Imp.png]]
 #### Street Urchins
 The chase ends when three street urchins (see "The Three Urchins," page 63) steal the stone, either by pickpocketing it from the doppelganger or by shooting a toy arrow at the raven and causing it to drop the stone.
 
@@ -140,10 +148,12 @@ Cellars and sewer tunnels intersect to create small dungeons under Waterdeep. Th
 The summer heat makes the sewer smell worse than usual, and characters become poisoned by the stench unless they cover their noses with perfumed scarves. The effect lasts until they leave the sewers. The street urchins and other creatures that live in the sewers are accustomed to the smell and aren't poisoned in this way
 ##### Search for the Urchins
 The characters approach the cellar complex from the east, eventually coming upon an iron door in the side of the sewer tunnel (area B4). 
-The street urchins took the Stone of Golorr to area 87 {which serves as their clubhouse). entering the room through a secret door (area 83). The eldest child. Nat, attuned to the stone, but contact with the aboleth so terrified her that she dropped it, screamed, and ran away.
+	The street urchins took the Stone of Golorr to area B7 (which serves as their clubhouse). entering the room through a secret door (area B3). The eldest child. Nat, attuned to the stone, but contact with the aboleth so terrified her that she dropped it, screamed, and ran away.
 The boys were panicked by her reaction and fled as well, leaving the stone in area B7. If the characters open the door at area B4, they startle the children on the other side, causing them to scream at the top of their lungs. Communicating through the other children, Nat tells the characters where she dropped the stone and warns them that it's "alive." Neither she nor the boys are eager to see it again.
 ##### Chair today, gone tomorrow
 If the characters head to area B7, they see the Stone of Golorr underneath a wooden rocking chair. If the street urchins are present, one of them asks, "Where'd that rocking chair come from?" The rocking chair is the mimic from area B9b. It heard the urchins' screams and investigated, hoping to snare an easy meal. It attacks anyone who harms it or reaches for the stone.
+
+![[Mimic.png]]
 #### Areas of the Cellar Complex
 The following locations are keyed to map 4.7. The complex has three distinct sections: the sewer tunnels (areas Bl-B3), the southern cellars (areas 84-89), and the northern cellars (areas B10- B11).
 ![[Cellar_complex.png]]
@@ -188,12 +198,14 @@ This room has the following features:
 - Two guards stand outside the doors to the records rooms (area H2) at all hours. Behind a desk sits a court clerk (commoner). 
 - Uncomfortable wood benches line the walls. A copper plaque mounted above each bench says, in Common, "Please have a seat. Someone will be with you shortly." Two privies are situated in a corner by the entrance. 
 **Clerk**. The clerk asks visitors what their business is and either directs them to the appropriate area of the courthouse or instructs them to wait. The clerk holds a key to the records rooms (area H2).
+![[Guard.PNG]]
 ##### H2. Records Rooms
 Door is locked. Every available inch lined with organized, dated records of court procedures and whatnot.
 ##### H3. Clerks' Office
 Two clerks work at the two desks in the middle, supporting the magister on duty. Both hold a key to H2.
 ##### H4. Magister's Office
 This grand office contains several plush armchairs and a large walnut desk. The seal of Wightwater is emblazoned on the wood floor. When not overseeing a trial, a magister on duty at the courthouse reviews cases and holds meetings here. If a magister is here, so is a knight who serves as a bodyguard.
+![[Knight.png]]
 ##### H5. Courtroom
 This room has the following features: 
 - Two guards are stationed here at all times. 
@@ -216,7 +228,7 @@ This room contains the following features:
 - An armored carriage stands behind a pair of steel doors secured by an iron bar.
 **Armored Carriage**. Two horses are needed to pull the carriage, which can hold up to eight Medium prisoners at a time. The back door to the carriage is secured with chains and two padlocks. Each veteran on duty has a key that opens one of the padlocks. 
 **Barred Outer Doors**. It takes two people to lift the bar that obstructs the doors to the outside. A successful DC 21 Strength (Athletics) check enables one person to do it alone.
-
+![[Veteran.PNG]]
 #### Summer
 ##### Under arrest
 The arresting force consists of twelve veterans, a Watch sergeant and eleven constables. They demand that the characters surrender their weapons and come along quietly. For guidance on how to handle character arrests, see "Breaking the Law," page 10. 
@@ -227,8 +239,10 @@ Characters who give up their visible weapons without a fuss aren't searched, but
 ##### Courthouse
 Arrested characters are brought to a courthouse in the Dock Ward and confined to cells (area H8) until their trial. Any items taken from them during their arrest are entrusted to the front desk clerk (area Hl) pending the trial's outcome. A character can take a short rest while incarcerated and use that time to attune to the Stone of Golorr. After ld6 hours, word comes down that the magister is prepared to hear the characters' testimony, whereupon the guards in area H8 unlock the characters' cells and escort them to the courtroom (area H5), where the magister is waiting.
 ##### False Captain
-==If the doppelganger is still at large, does this section. Otherwise, skip it==
+==If the doppelganger is still at large, do this section. Otherwise, skip it==
 If Lord Cassalanter's doppelganger valet is still at large, it kills a Watch captain and uses the victim's uniform to impersonate another Watch captain the characters have met before. Then, in the guise of [[Hyustus Staget]] (see "The Watch Arrives," page 27), the doppelganger kills the guards in area H8 with its bare hands and uses their keys to open the characters' cells. "Hyustus" warns them that the magister is corrupt and suggests they flee the city before they're sentenced to death. "Hyustus" offers to deliver messages or items of import on their behalf while they make good their escape. The doppelganger is hoping that the characters will entrust the Stone of Golorr to it for safekeeping. Failing that, it hopes to wrest the stone from them during the chaos of the jailbreak. 
+
+![[Doppelganger.png]]
 
 If the characters refuse to play along, the doppelganger cries out in alarm, bringing the full weight of the courthouse garrison (ten guards and two veterans) down upon the characters, whom "Hyustus" accuses of beating the cell block guards to death. These reinforcements have no reason to believe that Captain Staget isn't who he appears to be, and they side with him in any conflict. 
 
@@ -315,6 +329,8 @@ Zelifarn, a young bronze dragon, has taken up residence in Deepwater Harbor. Man
 ### Oracle's Consult Mushroom
 This mushroom is somewhat rare, growing only in temperate rainforest climates, and only in abandoned bird nests in the forests, during the summer months after a heavy rain. The mushroom glows a shifting blue-green
 
+## After the courthouse
+Corwin seems to have been kidnapped, his apartment left in disarray. If the character's don't show until after the chase scene, then there are clues left scattered as to who kidnapped Corwin and the secret he wanted to tell [[Xerxes (fake) - Fleet Fibblewibble|Fleet]]. Papers scatter his office, his furniture is tipped and glassware is shattered. What fleet would know as his favorite teapot lay in pieces, with the tea dried on the paper and floors.
 ## Vault of Dragons
 ==Come back to this section if/when the adventurers get there (in this chapter or the next)==
 All areas of the vault have the following features: 
@@ -345,6 +361,8 @@ This 20-foot-high hall has the following features:
 - The west wall bears a cracked mosaic that depicts a dwarf smith at a forge, crafting dwarves out of black metal and diamonds. (In the south end of the wall is a secret door.) 
 - Three archways in the east wall lead to crumbling bridges that span the entrance foyer (area V2) and end in front of adamantine doors (leading to areas V6. V7, and V8). 
 **Black Pudding**. A little more than halfway down the hall. a section of the western mural has broken off, forming a heap of shattered tile on the floor. A crack in the wall conceals a black pudding that gushes out and attacks characters who inspect the damage. 
+
+![[Black_Pudding.png]]
 
 **Secret Door**. A character who searches the hall for secret doors and succeeds on a `DC 17 Wisdom (Perception) check` notices the outline of a secret door that leads to area V5. The door opens automatically when a dwarf (or a creature transformed into a dwarf with an alter self spell or similar magic) touches it; otherwise, a successful `DC 17 Strength (Athletics) check` is needed to push open the heavy door.
 ### V5. Secret Room
@@ -379,6 +397,8 @@ When the characters arrive here for the first time, read:
 
 The dwarf, who calls himself Barok Clanghammer, is really the adult gold dragon Aurinax (see appendix B) in disguise. He guards the gold for Lord Dagult Neverember and holds the [[dragonstaff of Ahghairon]] (see appendix A) in exchange for his services. Dealing with the gold dragon presents an unusual challenge for the characters, and a peaceful resolution is more likely to benefit them than a violent one.
 
+![[Adult_Gold_Dragon.png]]
+
 Aurinax is patient, wise, merciful, and vigilant. He remains in humanoid form until combat breaks out, since he can't easily carry the dragonstaff of Ahghairon in dragon form. The dragon attacks only in defense of itself, the staff, or the gold. The only individuals authorized to remove the gold under Aurinax's watch are Dagult Neverember and his appointed vassals, none of whom are currently in Wightwater. 
 
 The characters can try to convince Aurinax that they have come on Neverember's behalf. Since he has never met them before or heard Neverember mention them by name, Aurinax is doubtful of their story. Fooling the dragon requires each character within his line of sight to succeed on a Charisma (Deception) check contested by the dragon's Wisdom (Insight) check. If even one character loses the contest, Aurinax senses that the group is lying to him. These checks are made with advantage if Renaer Neverember is with the party, since the dragon remembers meeting Renaer when he was but a child and can easily imagine a scenario in which Dagult Neverember might use his son as his vassal. (The dragon knows nothing of the animosity between Renaer and his father.) 
@@ -393,8 +413,11 @@ As the characters leave the vault, with or without the gold, they are confronted
 
 The [[Cassalanter's]] send three cult fanatics and three cultists. Victoro's doppelganger manservant, Willifort Crowelle, leads the group in his tiefling guise unless the characters killed him or otherwise disposed of him earlier in this chapter or in chapter 6. They are waiting in area [[#V2. Entrance Foyer]] if the door was left open, and outside o.w.
 
+![[cultist.png]]
+![[Cult_fanatic.PNG]]
 #### Faction reinforcement
 **Harpers**. [[Mirt]] (see appendix B) arrives with two female human swashbucklers (see appendix B). If he's still alive and not already with the characters, [[Renaer Neverember]] (see appendix B) replaces one of the swashbucklers.
+![[Swashbuckler.png]]
 **[[Zhentarim]]**. The Doom Raiders (see appendix B) arrive to help secure the vault, less any members who have been arrested or killed. If they and the characters emerge victorious. the surviving Doom Raiders propose to split the take evenly with the characters. If the characters refuse this offer and the Doom Raiders outnumber them, the Zhents turn against them. putting characters who are Zhentarim members in a predicament.
 
 ## Adventure Conclusion

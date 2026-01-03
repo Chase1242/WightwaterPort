@@ -30,3 +30,6 @@ Corwin is [[Xerxes (fake) - Fleet Fibblewibble|Fleet's]] adoptive father.
 	- He is kidnapped and his house ransacked
 	- A newspaper is put out about the disappearance of a magistrate and Fleet receives a letter from Corwin about his history
 	- Tie the Cassalanter's to Asmodeus and Titivilus - with some circumstantial ties to Radelia somehow
+
+## Character
+Corwin always has a baked good available, and tea ready to be made or already made, like scones or cookies.
