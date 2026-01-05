@@ -129,21 +129,22 @@ Page 44
 	- The Zhent leader, Urstul Floxin, was among those who got away. He's still at large. The Watch plans to step up its search for him.
 	- Of the nimblewright, there was no sign. According to the Gralhunds, the construct was delivered to Gralhund Villa weeks earlier. The family took it in, not realizing it was a Zhentarim spy. Lady Gralhund reported that it stole her necklace of fireballs.
 - This is riddled with lies and if the characters raise the question of why would the nimblewright kill Zhents if it was a spy, Cromley suggests it didn't know the power of the necklace
+![[Gralhund_Villa.PNG]]
 ### G1 Locked Gates
 - The ornate iron gates look into the tree-lined yard and paths leading to the mansion and coach house. They’re sealed with _arcane lock_—`DC 25 Strength` to force, `DC 20 thieves’ tools` to pick—and automatically open only for Gralhund family, staff, guards, or the nimblewright.
 ### G2 Yard
 The well-kept yard holds large seasonal trees and offers a view of a second-story balcony 20 ft up (DC 15 Athletics to climb). The groundskeeper Hurv (cult fanatic) and two mastiffs patrol; after sundown, all three become **shadows**. A DC 13 Stealth check avoids their notice—otherwise they attack.
 
-**Hurv Taldred (Cult Fanatic)**: AC 13 (leather), HP 33, Spd 30 ft; Multiattack w/ dagger **+3** to hit (dagger 1d4+1). Wis-based caster (spell save DC 11, +3 to hit). Notable spells: _command, inflict wounds, shield of faith, hold person, spiritual weapon_. PP 11. Adv against charmed/frightened 11 14 12 10 13 14; 4 1st lvl slots, 3 2nd; Cantrips (at will): _light, sacred flame, thaumaturgy_
+**Hurv Taldred (Cult Fanatic)**: AC 13 (leather), HP 33, Speed 30 ft; Multiattack w/ dagger **+3** to hit (dagger 1d4+1). Wis-based caster (spell save DC 11, +3 to hit). Notable spells: _command, inflict wounds, shield of faith, hold person, spiritual weapon_. PP 11. Adv against charmed/frightened 11 14 12 10 13 14; 4 1st level slots, 3 2nd; Cantrips (at will): _light, sacred flame, thaumaturgy_
 ![[Cult_fanatic.PNG]]
-**2 Mastiffs**: AC 12, HP 5 each, Spd 40 ft; Bite **+3** to hit, 1d6+1 piercing; Keen Hearing/Smell; DC11 tr Save or prone.
+**2 Mastiffs**: AC 12, HP 5 each, Speed 40 ft; Bite **+3** to hit, 1d6+1 piercing; Keen Hearing/Smell; DC11 tr Save or prone.
 ![[mastiff.PNG]]
 
 **Night Form — 3 Shadows**: AC 12, HP 16 each, Spd 40 ft; Strength Drain **+4** to hit, 2d6 + 2 necrotic (reduces Strength 1d4). Resistant to nonmagical attacks, acid, cold, lightning, thunder; PP 10; Vuln to radiant.
 ![[shadow.PNG]]
 
 ### G3 Coach House
-The coach house holds a pristine coach, four draft horses, and Lady Gralhund’s black riding horse, Maladar, whose saddlebags contain **eight 5-lb gold trade bars (250 gp each)** and **horseshoes of speed**. The exterior door is locked (DC 20 thieves’ tools). Inside are tack, hay, tools, and two cots—Hurv sleeps here by day; Ike the stableboy (commoner) sleeps here at night unless out running errands or drinking.
+The coach house holds a pristine coach, four draft horses, and Lady Gralhund’s black riding horse, Maladar, whose saddlebags contain **eight 5-lb gold trade bars (250 gp each)** and **horseshoes of speed**. The exterior door is locked (`DC 20 thieves’ tools`). Inside are tack, hay, tools, and two cots—Hurv sleeps here by day; Ike the stableboy (commoner) sleeps here at night unless out running errands or drinking.
 
 **Ike (Commoner)**: AC 10, HP 4, Spd 30 ft; Club **+2** to hit, 1d4 bludgeoning; PP 10.
 
@@ -190,9 +191,9 @@ The upstairs foyer is the site of an ongoing battle: four House Gralhund veteran
 The locked ballroom (`DC 15 thieves’ tools`) is empty and lavishly decorated with mirrors, tapestries, stained-glass lamps, crystal chandeliers, a glass stag head over the fireplace, and a veined marble floor. The ceiling mural depicts an orgy.
 
 ### G15
-**Urstul Floxin (reduced)**: AC 16, HP 50, Spd 30 ft; Multiattack: shortsword +6, 1d6+3 piercing; uses other surviving Zhents to cover escape; CR 3 (700 XP).
+**Urstul Floxin (reduced)**: AC 16, HP 50, Speed 30 ft; Multiattack: shortsword +6, 1d6+3 piercing; uses other surviving Zhents to cover escape; CR 3 (700 XP).
 
-**Flying Snakes (3)**: AC 13, HP 5 each, Spd 30 ft / fly 60 ft; Bite +4, 1d4+2 piercing, Poison DC 11 (note: used only for messaging, not combat).
+**Flying Snakes (3)**: AC 13, HP 5 each, Speed 30 ft / fly 60 ft; Bite +4, 1d4+2 piercing, Poison DC 11 (note: used only for messaging, not combat).
 #### G15a
 The guest suite consists of a bathroom (G15a) where Urstul Floxin, wounded (50 HP, CR 3), attempts to break into the bedroom (G15b) and a wood-paneled bedchamber blocked by Lord Gralhund with furniture.
 ![[Assassin.png]]

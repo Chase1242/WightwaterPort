@@ -6,6 +6,7 @@ ___
 - [[#Backstory]]
 - [[#Player notes]]
 	- [[#From Chapter 1 - A Friend in Need Chapter 1 of Waterdeep Dragon Heist|Waterdeep chapter 1]]
+- [[#DM Notes]]
 
 ## Character Stuff
 Name: Brindle "Lickleaf" Nackle  
@@ -97,3 +98,7 @@ Their friendship was truly a balance of chaos and grounding, just like the very 
 
 ## Player notes
 ### From [[Chapter 1 - A Friend in Need|Chapter 1]] of Waterdeep: Dragon Heist
+
+
+## DM Notes
+- Brindle follows believes in the two Archfey, Titania and and Autumn Prince (father of decay/fungus)
