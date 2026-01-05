@@ -282,3 +282,20 @@ To level 4 if they fight at Gralhund
 - next day they get news from Renaer about Urstul going to Gralhund Villa
 - Waiting for night to jump in
 - Total - 2.5 - end 27th
+- The party walked around Gralhund Villa inspecting it, where they noticed a small door that led into a pantry
+- [[Tazpin Stararm]] took a pound bag of cinnamon
+- [[Xerxes (fake) - Fleet Fibblewibble]] disguised self and talked to some thugs downstairs, where he learned that the thugs were fighting and looking for the [[Stone of Golorr]]
+- Remembering that the Stone is said to be the key to a half million gold pieces
+	- As such, they were all for going in and fucking shit up
+- The fighting went on, with the party clearing out the thugs and veterans of the House of Gralhund (which is a crime against the Code Legal)
+- Urstul, hidden behind a door trying to capture the husband succeeded, and brought him out to threaten Yalah to give him the location of the stone.
+	- The party restrained Urstul, and after unsuccessfully commanding Yalah to speak (and unsuccessfully trying to get her to confess)
+	- Yalah (and Hrabbaz) continue to deny location and knowledge about the fireball that killed Dalakhar and the Stone of Golorr
+	- After a Zone of Truth that Hrabbaz failed ad Yalah passed, Hrabbaz divulged the information about where the Stone was going (the mausoleum of the [[Cassalanter's]]) and who is taking it there
+- They went to fetch the guard, and Xerxes went out to grab them, with the rest of the group watching Hrabbaz and Yalah
+	- They walked Urstul out to the gates to be arrested - but as they went out, they were attacked by shadows. Xerxes dipped and that left [[Navreyi]] to get Urstul back inside
+	- They finished off the shadows and Xerxes returned
+- The guard got conflicting stories
+	- Yalah relayed that the group attacked her estate with the rest of the Zhent thugs, killing her men and threatening her directly
+	- The group said they tracked Urstul to the Villa, and when they heard the sound of fighting, they went in and stopped the thugs and saved the nobles
+	- Yalah threw Hrabbaz under the bus as well, forcing him to be arrested, accusing him of threatening her as well
