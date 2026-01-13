@@ -5,6 +5,7 @@ ___
 - [[#Backstory]]
 	- [[#As Jordon wrote it]]
 	- [[#Rewritten]]
+	- [[#The Hag of Kronos]]
 - [[#Character Connections]]
 - [[#Player notes]]
 	- [[#From Chapter 1 - A Friend in Need Chapter 1 of Waterdeep Dragon Heist|Waterdeep chapter 1]]
@@ -47,6 +48,19 @@ Unbeknownst to him, the statue was an ancient idol of **Juiblex**, the Faceless 
 And Juiblex answered.
 
 It granted him insight, eldritch secrets whispered through the dark, in exchange for his undying loyalty.
+
+### The Hag of Kronos
+- Ever since [[Cailleach Mháthair]] came to be in Issuria, she has known of the Prophecy involving the adventurers described in this campaign.
+- Since [[The Handsome Fae (AKA Moonbean)]] teamed up with the Hag, they've targeted Aldarian more than he would think.
+- When he was young, and allowed to run around and play, he adventured out to the woods around [[Wightwater]]. By design of Mother Hag, he became "lost" and eventually wandered to the hut of Mother Hag
+- Unbeknownst to little Aldarian, he signed a binding contract with the Hag, making him a warlock when he was younger. The Hag enchanted young Aldarian though, allowing her to give him commands that he would follow every so often, where he would become charmed (barring a passed Wisdom save) and follow her command no matter what. She commands him to kill his mother by poison, and then erases his mind. And when he is older she commands him to kill his father.
+- On each long rest in the tavern until he fails, Aldarian will make a Wisdom Save. 
+	- He will feel pressure behind his eyes and in his head, and he will think "Tazpin needs some more ale. I must add this to boost his health."
+	- He feels like it is a good idea
+	- "You feel an overwhelming compulsion. You know what you must do. You can try to resist."
+	- `Wisdom save`
+	- On a success, he freezes in his tracks, his hands shaking, and he doesn't know why he was about to do it
+	- On a failure, he acts and his memory starts to fuzz, with the memory fading to black
 
 ## Character Connections
 - [[Jacob Woods]]
