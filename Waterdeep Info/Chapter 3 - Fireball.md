@@ -229,7 +229,7 @@ The City Watch (and [[Barnibus Blastwind]] and [[Saeth Cromley]]) are called to 
 - After the events at Gralhund Villa, the characters are contacted by **Istrid Horn** via a flying snake messenger delivering a short note: she wants to know what happened at the villa and requests a meeting at **Ahghairon’s Statue** in [[The Sentinel's Rest Park]] above the [[Catacombs of the Eternal Vigil]] at high sun the next day. She offers **10 pp up front** for attending, with another **40 pp** promised if the characters agree to help her remain hidden for ten and a half days.
 >I would like to know more about what happened at Gralhund Villa. If you can spare the time, meet me at Ahghairon’s Statue in the City of the Dead at highsun tomorrow. You'll be paid generously for your time and trouble. - Istrid Horn
 
-- Ahghairon’s Statue is a public and safe meeting spot: a tall marble figure of the famous wizard, with steps leading up to it and a wide smile, overlooking the Waterdeep skyline. On arrival, the characters see **Istrid herself**, a female dwarf in plate armor. Successful **DC 15 Insight checks** reveal that she is alone and cautious—she fears arrest by the City Watch not for the villa incident, but because the ongoing investigation might expose her **illegal currency-lending operation**.
+- Ahghairon’s Statue is a public and safe meeting spot: a tall marble figure of the famous wizard, with steps leading up to it and a wide smile, overlooking the Wightwater skyline. On arrival, the characters see **Istrid herself**, a female dwarf in plate armor. Successful **DC 15 Insight checks** reveal that she is alone and cautious—she fears arrest by the City Watch not for the villa incident, but because the ongoing investigation might expose her **illegal currency-lending operation**.
 >Ahghairon's Statue is a well-known landmark in the city's parkland cemetery: a tall, marble sculpture of a bearded. robed wizard standing atop concentric steps and facing west toward the skyline of Wightwater, his hands outstretched and a broad smile on his face. At the foot of the statue stands a female dwarf clad in plate armor.
 
 - If the characters agree to help her, she uses a **disguise kit** to pose as a male dwarf named Jorn while hiding out in their tavern or another safe location. She may perform chores to help blend in, but she grows increasingly **testy and demanding** over time. If tolerated, she leaves after the ten and pays the remaining **40 pp**. Harboring her also benefits **Zhentarim-affiliated characters**, increasing their faction renown by 2.
@@ -267,6 +267,13 @@ by my hand and seal,
 >Magistrate of the City  
 >_(and your father, always)_
 
+## Aldarian's Urge
+- Unbeknownst to [[Aldarian Woods|Aldarian]], his memories about his powers are a complex fabrication carried out by [[Cailleach Mháthair]], and within him lies a dark truth he is not ready to handle...
+- As such, the Hag has a level of control over him that comes across as his own thoughts and feelings
+- Check [[Aldarian Woods#The Hag of Kronos|The Hag]] notes in his character notes
+- Each night, during the level up downtime, (this is where I pull Jordon aside...), Aldarian gets a strong urge to give Navreyi a drink with a weak poison inside it.
+	- I will tell Jordon that he has 
+
 ## Corwin's House
 Corwin's house is a two story, slate-roofed house, with fading blue paint on the outside. Inside is a two bedroom house that shows moderate wealth, but not overly flashy. His office is a clutter of papers and folders, with written notes on papers by Corwin in a neat script. 
 
@@ -299,3 +306,18 @@ To level 4 if they fight at Gralhund
 	- Yalah relayed that the group attacked her estate with the rest of the Zhent thugs, killing her men and threatening her directly
 	- The group said they tracked Urstul to the Villa, and when they heard the sound of fighting, they went in and stopped the thugs and saved the nobles
 	- Yalah threw Hrabbaz under the bus as well, forcing him to be arrested, accusing him of threatening her as well
+- Fleet got Corwin's "harrowing" letter
+### Fallout from Gralhund Villa
+- Urstul, with a vindictive hate of the Gralhunds for the attempted murder and double-crossing, corroborates the PCs stories. This leads to a massive fine for the [[Yalah Hollandor|Hollandor]] noble family (2,000-5,000 gp fine)
+	- A loss of reputation as well
+- The party will be visited by [[Saeth Cromley]] and [[Barnibus Blastwind]], to re-question them with a Zone of Truth
+	- "Why exactly, were you at Gralhund Villa to begin with?"
+	- "How did you know that the known Zhentarim criminal [[Urstul Floxin]] was at the residence?"
+	- "Did you know the villa belonged to a noble family?"
+	- "Who struck first?"
+	- "Unfortunately, you did violate a half-dozen or more statutes of the Code-Legal, including, but not limited to: murdering guards or citizens, assaulting a noble, and  unauthorized entrance to a noble estate. I don't know where you heard this, but I expect that arrest is most likely off the table, but fines are definitely under heavy consideration. We appreciate your help with the investigation - especially for the necklace and finding Urstul. If you need something that I can handle, let me know." Saeth grunts in agreement.
+- Hrabbaz, being unjustly accused of assault (but with Urstul and the party vouching for them) is released in the following days (after the events of the chase of chapter 4)
+	- Hrabbaz would then show up at [[Pixiedust Manor]] and offer two things:
+	1. To help the party at the tavern to repay the debt owed to them
+	2. Knowledge about a cache the Hollandor's have that is unknown by the city. This would be a cache hidden somewhere in the city that is relevant to the Gralhund's
+	- Hrabbaz would also let them know about the Asmodeus worshipping going on in the Villa, with both Lord and Lady Hollandor being avid cultists
