@@ -87,7 +87,7 @@ Page 44
 - Nim understands Common, but can't speak, using simple sign language to converse with that Valetta understands. After the incident with the bird, Nim hides among the clutter, emerging if the characters find their way inside. It reluctantly admits it built another nimblewright to ease it's loneliness. but the one it built fled in terror a month ago and it hasn't seen it since. Valetta angrily orders acolytes to remove the tools and unfinished inventions from the attic while Nim watches
 - Characters who search Nim's attic find a 1-foot-long copper rod that has an umbrella-like protrusion at one end. Detect magic shows an aura of divination magic around it. Nim made it to seek the lost nimblewright but couldn't leave the temple.
 - A character must hold down it's trigger, and when within 500 feet of a nimblewright that is not Nim, it spins, whirs, and clicks, picking up speed as you get closer. It reaches max speed when within 30 feet of the nimblewright
-- Valetta offers 500 gp to destroy the loose nimblewright, bringing back proof. If they succeed they get the 500 gp and each get one non-magical invention (pg 48)
+- Valetta offers 500 gp to destroy the loose nimblewright, bringing back proof. If they succeed they get the 500 gp and each get one non-magical invention (pg. 48)
 ### Finding Nim's creation
 - A ward by ward search is best, but let players tell you how they search
 - Nim's errant nimblewright is in [[Gralhund Villa]] on Saerdoun Street, in [[North Harbor]], but searching the [[Harbor Ward]] causes the detector to  whir when it comes within range of a couple ships in the port
@@ -227,7 +227,7 @@ The City Watch (and [[Barnibus Blastwind]] and [[Saeth Cromley]]) are called to 
 
 ### Encounter with [[Istrid Horn]]
 - After the events at Gralhund Villa, the characters are contacted by **Istrid Horn** via a flying snake messenger delivering a short note: she wants to know what happened at the villa and requests a meeting at **Ahghairon’s Statue** in [[The Sentinel's Rest Park]] above the [[Catacombs of the Eternal Vigil]] at high sun the next day. She offers **10 pp up front** for attending, with another **40 pp** promised if the characters agree to help her remain hidden for ten and a half days.
->I would like to know more about what happened at Gralhund Villa. If you can spare the time, meet me at Ahghairon’s Statue in the City of the Dead at highsun tomorrow. You'll be paid generously for your time and trouble. - Istrid Horn
+>I would like to know more about what happened at Gralhund Villa. If you can spare the time, meet me at Ahghairon’s Statue in the Catacombs of the Eternal Vigil at highsun tomorrow. You'll be paid generously for your time and trouble. - Istrid Horn
 
 - Ahghairon’s Statue is a public and safe meeting spot: a tall marble figure of the famous wizard, with steps leading up to it and a wide smile, overlooking the Wightwater skyline. On arrival, the characters see **Istrid herself**, a female dwarf in plate armor. Successful **DC 15 Insight checks** reveal that she is alone and cautious—she fears arrest by the City Watch not for the villa incident, but because the ongoing investigation might expose her **illegal currency-lending operation**.
 >Ahghairon's Statue is a well-known landmark in the city's parkland cemetery: a tall, marble sculpture of a bearded. robed wizard standing atop concentric steps and facing west toward the skyline of Wightwater, his hands outstretched and a broad smile on his face. At the foot of the statue stands a female dwarf clad in plate armor.
@@ -277,7 +277,6 @@ by my hand and seal,
 ## Corwin's House
 Corwin's house is a two story, slate-roofed house, with fading blue paint on the outside. Inside is a two bedroom house that shows moderate wealth, but not overly flashy. His office is a clutter of papers and folders, with written notes on papers by Corwin in a neat script. 
 
-
 [[Corwin FibbleWibble]]
 ## Level up if they influenced Gralhund Villa
 To level 4 if they fight at Gralhund
@@ -307,6 +306,7 @@ To level 4 if they fight at Gralhund
 	- The group said they tracked Urstul to the Villa, and when they heard the sound of fighting, they went in and stopped the thugs and saved the nobles
 	- Yalah threw Hrabbaz under the bus as well, forcing him to be arrested, accusing him of threatening her as well
 - Fleet got Corwin's "harrowing" letter
+- .5 day for the events at Gralhund, start chapter 4 on 28th
 ### Fallout from Gralhund Villa
 - Urstul, with a vindictive hate of the Gralhunds for the attempted murder and double-crossing, corroborates the PCs stories. This leads to a massive fine for the [[Yalah Hollandor|Hollandor]] noble family (2,000-5,000 gp fine)
 	- A loss of reputation as well

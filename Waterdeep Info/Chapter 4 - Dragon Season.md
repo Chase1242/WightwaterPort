@@ -53,7 +53,7 @@ Rooms in the mausoleum have 8-foot-high ceilings, with 6-foot-high passages and 
 #### M1: Ground Level
 The door into the mausoleum is locked, and requires a successful `DC 15 Thieves' Tools` check or `DC 25 Athletics Check`. The [[Cassalanter's|Cassalanter]] family emblem is emblazoned on the floor between 4 coffins. A successful `DC 20 Intelligence (Investigation) check` reveals that it has been opened recently, as evidenced by dirt smears on the door.
 #### M2: Underground Crypts
-Three cultists lay on the floor, two dead and one left for dead but unconscious. If Vaelle Lurval (LE, female, Arasian cultist) is healed, she regains consciousness and reveals Arn Xalrondar and Seffia Naelryke would likely have taken it to an old lumber mill, a meeting point in the [[Southlums]], where there are some ceremonies worshipping [[Asmodeus]]. If at or near full health, will offer to come with to avenge her bd, Holiver Tornrudder, or she will offer directions. She believes
+Three cultists lay on the floor, two dead and one left for dead but unconscious. If Vaelle Lurval (LE, female, Arasian cultist) is healed, she regains consciousness and reveals Arn Xalrondar and Seffia Naelryke would likely have taken it to an old lumber mill, a meeting point in the [[Southlums]], where there are some ceremonies worshipping [[Asmodeus]]. If at or near full health, will offer to come with to avenge her lover, Holiver Tornrudder, or she will offer directions. She believes the others acted on their own, not the [[Cassalanter's]]. She won't reveal the Cassalanter's unless magically compelled to do so.
 
 ![[cultist.png]]
 ### 10: Converted Windmill
@@ -132,6 +132,32 @@ The characters are pursuing Lord Cassalanter's doppelganger valet, Willifort, as
 #### Crowded Street
 If Willifort flees in a hire-coach, his getaway is thwarted on the third round of the chase when a large crowd blocks the road, forcing the hire-coach to stop. (If the chase occurs on Founders' Day, the crowd is part of the holiday celebration.) The doppelganger jumps out of the hire-coach on his next turn and makes his way through the crowd on foot.
 Any creature in the crowd has half cover, and any attack that misses the creature because of the cover hits an innocent commoner instead. If Willifort is incapacitated, a raven abruptly swoops down, acting next in the initiative count. It snatches the stone and flees with it. This raven is a shape changed imp that works for Lady Cassalanter.
+![[Doppelganger.png]]
+
+On the second round of the chase is when the [[Mass Battlefield Spell Caster (MBSC)]] triggers. In each of the chase scenes, describe an additional effect from the use of the machine.
+
+**Minute 1–3**
+- faint sulfur smell
+- birds leave the area
+**Minute 4–6**
+- metallic taste in the air
+- hair standing on end
+- shadows distort
+**Minute 7–9**
+- sulfur becomes overwhelming
+- headaches begin
+- faint whispers
+**Minute 10**
+- sudden magical pressure like the air becoming heavy
+If the characters decide to use a bonus action to glance around the crowd, they will need to make a competing `Perception Check`. If their passive perception is greater than the [[White Mask]]'s stealth roll, they spot the Mask in the crowd, following them. 
+
+They must roll a `DC 16 Wisdom Saving throw` when the MBSC goes off:
+On a pass, they feel no effects of the spell.
+> The air suddenly grows heavy, as if the world itself is resisting movement. For a moment your limbs feel sluggish, like moving through deep water. Then the sensation fades.
+
+On a failed save they are under the effects of the Slow spell:
+> Your muscles refuse to respond as quickly as you command them. Every movement feels delayed, like reality itself is dragging against you.
+
 ![[Imp.png]]
 #### Street Urchins
 The chase ends when three street urchins (see "The Three Urchins," page 63) steal the stone, either by pickpocketing it from the doppelganger or by shooting a toy arrow at the raven and causing it to drop the stone.
@@ -256,7 +282,7 @@ Magister Umbero Zastro has the statistics of a noble, with these changes:
 - He has these racial traits: He has advantage on saving throws against being charmed, and magic can't put him to sleep. He has darkvision out to a range of 60 feet. He speaks Common and Elvish. 
 The magister bas already heard the testimony of the arresting officers, as well as that of any eyewitnesses. The characters are given an hour to plead their case while he asks questions. A character who tries to deceive Zastro must make a Charisma (Deception) check contested by the magister's Wisdom (Insight) check. A character who loses this contest is found guilty of hampering justice, locked up for a tenday. and fined 200 gp, on top of any other punishments meted out for crimes committed against the city and its citizenry. Those who can't or won't pay the fine are sentenced to hard labor for a year in Amendsfarm, a City Guard-run labor camp among the farms of Undercliff. 
 
-If the characters committed one or more crimes, they are judged guilty and punished accordingly (see the Code Lega l handout in appendix C). A character who pleads for leniency and succeeds on a DC 14 Charisma (Persuasion) check receives an alternate punishment for crimes that don't carry punishments of death or exile. This check is made with advantage if the character has renown in a respectable faction. such as Force Grey (the Gray Hands), the Emerald Enclave, the Harpers, the Lords' Alliance. or the Order of the Gauntlet. Alternate punishments for lesser crimes include the following:
+If the characters committed one or more crimes, they are judged guilty and punished accordingly (see the Code Legal handout in appendix C). A character who pleads for leniency and succeeds on a DC 14 Charisma (Persuasion) check receives an alternate punishment for crimes that don't carry punishments of death or exile. This check is made with advantage if the character has renown in a respectable faction. such as Force Grey (the Gray Hands), the Emerald Enclave, the Harpers, the Lords' Alliance. or the Order of the Gauntlet. Alternate punishments for lesser crimes include the following:
 - The character must make beds and clean bedsheets at local orphanages for a tenday, under guard supervision. 
 - The character must report to Morana Huldark, a dwarf member of the Guild of Watermen, and scrape barnacles off the docks for a tenday under her close supervision. 
 - The character must spend the next month delivering 30-pound casks of drinking water to the guards stationed atop the city walls. 
@@ -436,3 +462,7 @@ The characters likely won't be able to get into the vault.
 
 ### Level up
 Take 5 days to level up to level 5
+
+## Timeline
+- Ended last session at noon in front of the mausoleum
+- 
