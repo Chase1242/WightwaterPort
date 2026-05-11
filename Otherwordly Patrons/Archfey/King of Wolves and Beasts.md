@@ -8,3 +8,7 @@ Moondancer - important to note that intent is important when saying words. If so
 - The Wolves Eye
 - King Hunter
 ## Origins
+
+## Forms
+- Sometimes takes the shape of a [Bear King](https://dr-eigenvalue.github.io/bestiary/creature/bear-king)
+- 

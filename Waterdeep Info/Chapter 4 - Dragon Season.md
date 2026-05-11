@@ -61,6 +61,7 @@ This crumbling, two-story stone building was a windmill long before the city ros
 - Rooms have 15-foot-high ceilings, with 10-foot-high passages and 7-foot-high doorways connecting them. 
 - Doors are wooden, closed, and unlocked. • The walls are covered with graffiti, and the stone floors are strewn with garbage and detritus. Windows are empty lead frames without glass. 
 - There are no light sources.
+- There is a hyper-realistic dick with candles and dick flowers. The wall around it is clear. Will become a religion.
 ![[Converted_Windmill.png]]
 #### W1. Stone Staircase
 A curved set of stone stairs climbs 20 feet to the upper level. The stairs are covered with bird droppings, broken roof shingles, mud, and mold.
@@ -95,7 +96,7 @@ Lord Cassalanter sent Arn and Seffia on a mission to retrieve the [[Stone of Gol
 #### Devil's Arrival
 As characters try to break into the cult fanatics' apartment, three spined devils arrive. The devils fly to the tower, knock on the apartment window, and are let inside by Seffia, whereupon Arn gives one of them the Stone of Golorr. When the characters enter, they see the devils fly off with the stone. The cult fanatics do everything in their power to enable the devils to escape.
 #### Next Encounter
-If the characters deal with the cult fanatics, they can chase after the fieeing spined devils by running across rooftops. Proceed with encounter 5, "[[#5 Rooftop Chase]]."
+If the characters deal with the cult fanatics, they can chase after the fleeing spined devils by running across rooftops. Proceed with encounter 5, "[[#5 Rooftop Chase]]."
 ### 5: Rooftop Chase
 The characters are trying to catch up with three spined devils that keep low above the rooftops, so as not to be seen by Wightwater's Griffon Cavalry. The devils are 100 feet away from the characters at the start of the chase. 
 If the devil carrying the Stone of Golorr becomes incapacitated, another devil snatches the stone and flees with it.

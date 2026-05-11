@@ -15,7 +15,7 @@ Titania, Queen of Summer, and the rest of the Archfey have been planning and plo
 3. [[Ran Dal, Thorson, Prince of the Dawn and Spring]]
 4. [[King of Wolves and Beasts]]
 5. [[Princess of Plots and Dreams]]
-6. [[Meareth]]
+6. [[Meareth, the Forest's Touch]]
 7. [[Queen of Golden Lilies]]
 8. [[Dragor, Death's Embrace]]
 9. [[Prince-Bard of Music and Storytelling]]
