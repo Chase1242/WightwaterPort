@@ -59,7 +59,8 @@ Three cultists lay on the floor, two dead and one left for dead but unconscious.
 ### 10: Converted Windmill
 This crumbling, two-story stone building was a windmill long before the city rose up around it. The following features apply unless an area description or encounter states otherwise: 
 - Rooms have 15-foot-high ceilings, with 10-foot-high passages and 7-foot-high doorways connecting them. 
-- Doors are wooden, closed, and unlocked. • The walls are covered with graffiti, and the stone floors are strewn with garbage and detritus. Windows are empty lead frames without glass. 
+- Doors are wooden, closed, and unlocked. 
+- The walls are covered with graffiti, and the stone floors are strewn with garbage and detritus. Windows are empty lead frames without glass. 
 - There are no light sources.
 - There is a hyper-realistic dick with candles and dick flowers. The wall around it is clear. Will become a religion.
 ![[Converted_Windmill.png]]
@@ -449,7 +450,7 @@ The [[Cassalanter's]] send three cult fanatics and three cultists. Victoro's dop
 
 ## Adventure Conclusion
 ### Dying in the Vault
-If the characters die in the Vault of Dragons with the Stone ofGolorr and the main villain doesn't know the vault's location, the secrets of the vault die with them. Though they succumbed in the process, they succeeded in keeping the gold out of the villain's clutches- a bittersweet victory, indeed.
+If the characters die in the Vault of Dragons with the Stone of Golorr and the main villain doesn't know the vault's location, the secrets of the vault die with them. Though they succumbed in the process, they succeeded in keeping the gold out of the villain's clutches- a bittersweet victory, indeed.
 
 ### Removing the Gold
 If the characters recover Neverember's hoard and keep it for themselves, word gets out eventually. 
@@ -466,4 +467,44 @@ Take 5 days to level up to level 5
 
 ## Timeline
 - Ended last session at noon in front of the mausoleum
-- 
+- Found Vaelle in Mausoleum, who they brought along to the converted windmill
+- Hyper realistic dick with a shrine on the old windmill
+	- bush
+	- Tiefling red
+	- Candles and space given to it by other artists
+- Fought in converted windmill and Vaelle died
+	- Xerxes ran outside along the road until he vaulted up to the roof
+	- Bard, fairy, and gnome ran along rooftops
+	- Fought spined devils
+	- Killed each devil, and when the last one died, the stone bounced around on the rooftop
+	- ended there
+- A raven swooped in and grabbed the stone, dropping it on a tiefling's lap in a carriage
+	- A minor illusion of a dog frightened the horses with poor vision
+	- Prevented them from moving
+- Brindle threw a lute at Willifort, not making it remotely close
+- Xerxes tried to jump off a roof and shoot the driver, but missed
+- The bearded devil looked for [[Xerxes (fake) - Fleet Fibblewibble|Xerxes]] and couldn't find him, jumping up on the roof
+- The spined devils attacked and hit [[Navreyi]] and [[Brindle 'Lickleaf' Nackle]] once
+- The last one searched for and couldn't find Xerxes
+- Aldarian killed on of the imps
+- Willifort jumped out of the non-moving carriage and sprinted to the street
+- Navreyi jumped and missed a headbutt
+- Brindle killed an imp and then crit, knocking the wind out of Willifort, then kneeing him in the head, breaking his nose
+- Xerxes knocked him prone with an attack
+- He stood up, backhanding Navreyi and elbowing Xerxes
+- [[Mass Battlefield Spell Caster (MBSC)]] went off, everyone but Brindle and Aldarian slowed
+- They killed the bearded devil and knocked out Willifort, escaping in the hysteria and confusion. They will not be arrested
+- Tied Willifort up in the basement
+- Xerxes sent a child orphan (employee of the Thieves Guild) to gather information on Willifort
+	- What do he find?
+- A failed zone of truth, successful intimidation check, and a casting of suggestion (Willifort failed) later, the party asked five questions
+	- Who are you?
+		- Willifort Crowelle
+	- Who do you work for?
+		- The Cassalanter's
+	- Why do your employers want the stone?
+		- They need it to pay off a debt
+	- Who precisely is the enemy that would be made without the stone?
+		- Asmodeus
+	- Who is the head of your household?
+		- [[Victoro Cassalanter]]
