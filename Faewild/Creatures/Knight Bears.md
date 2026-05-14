@@ -13,5 +13,6 @@
 - They are different types of bears, from Owl Bears to regular Bears, sometimes even Werebears
 - Usually awakened by the power of the King of Wolves and Beasts
 - Not limited to bears
+- You notice they seem to have a small vestigial fin tail that doesn't really make any sense...
 ## Stat Block
 ![[knight_bear.png]]
