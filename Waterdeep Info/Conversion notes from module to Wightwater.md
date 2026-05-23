@@ -1,6 +1,6 @@
 - Baldur's Gate to [[Coentra]]
 - Trollskull Alley to [[Pixiedust Alley]]
-- North Ward to [[North Harbor]]
+- North Ward to [[Districts/North Harbor]]
 - Dock Ward to [[Harbor Ward]]
 - Skewered Dragon to [[The Thirsty Goat]]
 - Luskan - [[Dikon]]

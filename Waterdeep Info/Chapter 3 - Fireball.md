@@ -16,7 +16,7 @@ Page 44
 - No buildings are on fire, but 11 people died
 	- Elderly female human on a walk, no one recognizes
 	- Two cloaked male humans (`DC 15 Perception Check` to figure out one has a black, winged snake on his right forearm)
-	- Two female humans and one male half-elf (servants of a wealthy family in the [[North Harbor]] running errands)
+	- Two female humans and one male half-elf (servants of a wealthy family in the [[Districts/North Harbor]] running errands)
 	- One male gnome wearing a burned cloak and clutching a dagger
 	- Two female halflings who were playing a flute and fiddle and two male halflings who were dancing
 - The PC's have 1d4 + 2 minutes before the City Guard arrives, where the aren't allowed access to the bodies unless invisible or similarly hidden
@@ -90,7 +90,7 @@ Page 44
 - Valetta offers 500 gp to destroy the loose nimblewright, bringing back proof. If they succeed they get the 500 gp and each get one non-magical invention (pg. 48)
 ### Finding Nim's creation
 - A ward by ward search is best, but let players tell you how they search
-- Nim's errant nimblewright is in [[Gralhund Villa]] on Saerdoun Street, in [[North Harbor]], but searching the [[Harbor Ward]] causes the detector to  whir when it comes within range of a couple ships in the port
+- Nim's errant nimblewright is in [[Gralhund Villa]] on Saerdoun Street, in [[Districts/North Harbor]], but searching the [[Harbor Ward]] causes the detector to  whir when it comes within range of a couple ships in the port
 - [[Zardoz Zord]], owner of [[Sea Maidens Faire]], has brought his 3 ships to Wightwater. Two of the ships, *Hellraiser* and *Heartbreaker* are docked, while the third, *Eyecatcher* is in the Harbor. Each ship has at least one nimblewright on board.
 - The docks are bustling and chaotic during the day. Night provides sufficient cover for the characters to approach unseen. If one or more of the members are caught aboard, the crew tries to corner them until the ship's captain can have words with them. The nimblewrights are attractions and nothing more, according to the crew.
 - Zord invites the characters to dine with him aboard the *Eyecatcher* if the characters ask to speak with the captain

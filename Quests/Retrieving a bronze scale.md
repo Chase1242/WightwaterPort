@@ -1,0 +1,7 @@
+- Xerxes/Navreyi can use their connections to learn the whereabouts of the dragon, and where rumors would be found
+- Others can do a DC 14 History check to remember overhearing a conversation about a young bronze dragon
+	- If the roll is between a 5 and 14, they remember hearing something about brass(?) dragon somewhere (this may or may not be right depending on the roll)
+- A successful DC 12 History/Nature check reveals that bronze dragons can breathe underwater, and therefore sometimes inhabit underwater features (caves, shipwrecks, etc.) 
+- [[Zelifarn]] is not aggressive, and won't attack unless attacked
+- See [[Underwater combat]]
+- Very little light underwater

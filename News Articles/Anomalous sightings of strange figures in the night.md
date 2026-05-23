@@ -2,7 +2,7 @@ _By [[Ellisar Thenn]], Senior Correspondent for the [[Wightwater Wazoo]]_
 
 Residents across several wards continue to report disturbing encounters with white-masked figures haunting the rooftops and high places of the city under the cover of darkness. While officials urge calm, the Wazoo has spoken with enough witnesses to suggest that something unusual—if not outright uncanny—is unfolding in Wightwater.
 
-In the [[North Harbor]], a woman described awakening to strange noises outside her home and glimpsing two masked figures crouched on a nearby rooftop, each wearing a white mask carved with a different expression—one twisted in silent laughter, the other frozen in a mournful frown. 
+In the [[Districts/North Harbor]], a woman described awakening to strange noises outside her home and glimpsing two masked figures crouched on a nearby rooftop, each wearing a white mask carved with a different expression—one twisted in silent laughter, the other frozen in a mournful frown. 
 
 Another witness, a lamplighter near the [[Dead Man's Yard]], the largest graveyard in [[Wightwater]], insists he saw a mask carved with four jagged slashes hovering in midair before a body “formed around it like an afterthought.” A carriage driver entering the ward at dusk described a tall figure wearing a mask split perfectly down the middle—one half serene, the other contorted in a scream. “It tilted its head at me,” he said, “as though deciding whether I mattered.”
 

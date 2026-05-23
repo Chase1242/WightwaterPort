@@ -1,6 +1,6 @@
 - Business rival to the [[Pixiedust Manor]] if the PCs decide to fix up the tavern
 ## Goals
-- Emmek wants his pub to be the most successful tavern in the [[North Harbor]], and he wants the characters' business to fail spectacularly.
+- Emmek wants his pub to be the most successful tavern in the [[Districts/North Harbor]], and he wants the characters' business to fail spectacularly.
 ## Assets
 - Emmek is stingy when it comes to certain kinds of expenses and foolish with his coin in other ways. He tends to spend a lot on big, showy items and cut corners on the little amenities. Because he doesn't have much coin to throw around right now, his plan to ruin the characters' establishment begins with borrowing some money.
 ## Plans

@@ -6,6 +6,8 @@
 - Max 1 inch tall
 - Hallucinogenic
 - If your connection to the Fae is strong enough, you may see visions of the possible futures
+- The magical properties prevent divination magic from locating the mushrooms
+- Never grow in the same nest twice
 ## Where to find
 - Temperate rainforest climates
 - Abandoned bird nests in tall trees
