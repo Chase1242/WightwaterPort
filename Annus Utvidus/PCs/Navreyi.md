@@ -30,7 +30,7 @@ She detailed the Dead Man's Waters with sharp rocks jutting out of the surface, 
 
 *He made a noise of water erupting, throwing you into the air and catching you lightly*
 
---Just like that! A giant squid came out of the water, threatening to bring the ship and the crew down into the cold, dark depths of the ocean. She said (and I don't believe this part) they fought for five hours before they killed the squid. The crew ate calamari for days afterward. 
+Just like that! A giant squid came out of the water, threatening to bring the ship and the crew down into the cold, dark depths of the ocean. She said (and I don't believe this part) they fought for five hours before they killed the squid. The crew ate calamari for days afterward. 
 
 They docked off the shore of the main island, and something called to her. She got on the island, and listened to the soft melody of the wind, guiding her where she needed to go. She found the cave, and presumably, Lady Future, but... she never told me what happened in that cave with the deep blue light. She came back with a flute of gold, silver, and ivory. She said her journey was uneventful back home, and she moved into Wightwater's Port. Your great-grandpappy, he had already moved into Wightwater, and well, they met, fell in love, and had me and my four siblings. My dad, he worked a couple jobs, the most notable being a vintner for the Vintners, Distillers, and Brewers Guild, where he only achieved a journey-satyr status. My mother, she played that flute around town, at taverns, even making it to a minor noble's ball as one of the acts at the party.
 
@@ -42,3 +42,6 @@ When she played the flute, you could *almost see* the story she was trying to te
 
 ## Player notes
 ### From [[Chapter 1 - A Friend in Need|Chapter 1]] of Waterdeep: Dragon Heist
+
+## DM Notes
+- Her Nini bequeathed the fiddle to her

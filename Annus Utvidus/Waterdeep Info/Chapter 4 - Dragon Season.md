@@ -351,10 +351,10 @@ Every key can be found or procured in Wightwater. If the characters don't alread
 
 ### Performance of "Your Beardy Face" 
 The dwarf love song, ''Your Beardy Face," is a duet performed by bagpipers. The characters can obtain this music easily for 1 gp and hire two performers to play the piece for 10 gp each. A character who has proficiency with bagpipes can perform the song, though a successful DC 10 Charisma (Performance) check using bagpipes is required for the performance to count as this key. A glass jar in Cassalanter Villa (see chapter 6, area C3) plays this song when it is uncorked.
-#### Bronze dragon scale
+#### [[Retrieving a bronze scale|Bronze dragon scale]]
 Zelifarn, a young bronze dragon, has taken up residence in [[Stillwater Harbor]]. Many sailors and dock workers have seen the dragon, and Grinda Garlotb owns an *[apparatus of Kwalish](https://2014.5e.tools/items.html#apparatus%20of%20kwalish_dmg)* that characters can use to search for the dragon. Characters who go looking for Zelifarn find him lurking inside a shipwreck 120 feet underwater. As the characters approach the wreck, Zelifarn comes out and tries to scare them away. (He's not done searching the wreck for treasure.) He inflicts harm only in self-defense. A successful DC 15 Charisma (Persuasion) check or an offer of treasure worth at least 1,000 gp convinces the dragon to talk with the characters and part with one of his scales. If the characters mention the contents of the Vault of Dragons, [[Zelifarn]] demands a promise of 10 percent of the gold before he gives them what they came for.
 
-### Oracle's Consult Mushroom
+### [[Getting an Oracle's Consult|Oracle's Consult Mushroom]]
 This mushroom is somewhat rare, growing only in temperate rainforest climates, and only in abandoned bird nests in the forests, during the summer months after a heavy rain. The mushroom glows a shifting blue-green
 
 ## After the courthouse
@@ -508,3 +508,29 @@ Take 5 days to level up to level 5
 		- Asmodeus
 	- Who is the head of your household?
 		- [[Victoro Cassalanter]]
+### May 23rd Session
+- They spent about an hour  or two arguing about what to do with Willifort
+	- Heal and drop him off?
+	- Clicker train him?
+	- Turn him in?
+	- Kill him?
+	- Flip him to their side?
+- He ended up changing shape to a smaller being, and then to Xerxes to escape
+- When Tazpin opened the door, Willifort hit him for 18 damage
+- Brindle finished him off
+- Next on the agenda, the "Oracle's Consult Mushroom"
+- Go find a betting ring on divination wizards homework about the weather
+- Jerry and Lola predict right most often
+- Vix and Art predict heavy, heavy rain
+- I rolled 15% and 20%, so not good enough to rain
+- Then, after reminding the group about Xerxes' father, they chose to go to the forest to the druid grove
+- They approach the grove, fenced in with tall bramble
+- It is eerily quiet, and Xerxes sees the light of the campfire flickering against the ancient body of [[Cedarbark]]
+- Ahrie Ola wild shaped into a lizard to investigate the grove
+	- Saw a bunch of dead druids/ those associated with them in the grove dead
+	- A group of 5-7 around a campfire, with 2 guarding the entrance into the tree
+		- One of these is a 6' 5" tall man, wearing on huge leaf that covers his bulge barely, and nothing else
+		- Has a super fat ass
+		- Hairy
+	- They talked about how this druid grove is the cause of the disease of the forest
+	- Et fini

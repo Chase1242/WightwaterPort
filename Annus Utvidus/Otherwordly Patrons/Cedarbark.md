@@ -1,0 +1,1 @@
+An ancient treant that passed and left [[Archdruid Esalla]] in charge of it. [[Archdruid Esalla]] is the founder of the [[Woodkin Druid's Grove]]

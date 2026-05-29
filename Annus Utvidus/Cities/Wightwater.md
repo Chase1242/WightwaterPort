@@ -104,7 +104,7 @@ ___
 - The Thirsty Goat
 - [[The Cloak and Stagger Tavern]] 
 - Gobble Inn 
-- The Eye of the Beholder 
+- [[The Eye of the Beholder]] 
 - All the Way Inn 
 - Rock Bottom 
 - Dew Drop inn

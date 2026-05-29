@@ -7,7 +7,7 @@
 	- [[#From Chapter 1 - A Friend in Need Chapter 1 of Waterdeep Dragon Heist|Waterdeep chapter 1]]
 ## Backstory
 
-Ahriola was born in the very heart of the Faewild, in a small, vibrant village nestled deep in the forest, just beyond the bustling city of Wightwater Port. She was the youngest of three daughters in a loving, close-knit family. Their home was a marvel, built within the sturdy embrace of an [[Ancient Trees|ancient whispering tree]], adorned with cheerful flowers and whimsical mushroom embellishments. Ahriola's days were a joyful communion with her family and nature itself, learning the gentle ways of a forest fairy druid. Her parents, wise in the old ways, taught her and her four sisters to prepare intricate spells and potent potions. Often, Ahriola joined her sisters and father on trips into Wightwater Port to trade their magical wares.
+Ahriola was born in the very heart of the Faewild, in a small, vibrant village nestled deep in the forest, just beyond the bustling city of Wightwater Port. She was the youngest of three daughters in a loving, close-knit family. Their home was a marvel, built within the sturdy embrace of an [[Ancient Trees|ancient whispering tree]], adorned with cheerful flowers and whimsical mushroom embellishments. Ahriola's days were a joyful communion with her family and nature itself, learning the gentle ways of a forest fairy druid. Her parents, wise in the old ways, taught her and her four sisters to prepare intricate spells and potent potions. Often, Ahrie Ola joined her sisters and father on trips into Wightwater Port to trade their magical wares.
 
 This year, the annual town festival held special significance. It was Ahriola’s first festival as a new adult, and her loving mother had tasked her with finding the most exquisite spider silk in shades of emerald and silver for a special gown. Arriving in Wightwater, Ahriola immediately sought out Jalester, the city's most well-connected citizen, known for his ample knowledge of merchants and gossip. Her father often consulted Jalester for leads, and Ahriola knew she'd find him holding court in one of the city's lively bars.
 
@@ -19,7 +19,7 @@ What followed was an enchanting adventure through the market. Ahriola and the fa
 
 ### The Festival and a Fateful Wait
 ---
-On the day of the festival, Ahriola was a vision. She wore her new handkerchief spider silk gown, expertly crafted by her doting mother. It was exactly as she had wished: emerald green, shimmering with exquisitely embroidered silver stars. She and her sisters laughed, danced beneath the town's abundant lanterns, and drank ample amounts of mead.
+On the day of the festival, Ahrie Ola was a vision. She wore her new handkerchief spider silk gown, expertly crafted by her doting mother. It was exactly as she had wished: emerald green, shimmering with exquisitely embroidered silver stars. She and her sisters laughed, danced beneath the town's abundant lanterns, and drank ample amounts of mead.
 
 As fatigue began to set in, her family decided to leave the town's festivities. Ahriola, however, fluttered off, her heart full of anticipation, towards the ancient maple tree. She gleefully waited for her new potential prospect.
 
@@ -29,7 +29,7 @@ Annoyed, a slow, burning frustration began to simmer beneath Ahriola's delight. 
 
 ### A Home Shattered
 ---
-When Ahriola finally arrived at her home, she found it in disarray. Her heart plummeted as she stepped inside. The air was thick with a chilling silence, and the once-vibrant space was ruined. Her family… they were gone, brutally murdered.
+When Ahrie Ola finally arrived at her home, she found it in disarray. Her heart plummeted as she stepped inside. The air was thick with a chilling silence, and the once-vibrant space was ruined. Her family… they were gone, brutally murdered.
 
 And there, standing by their family hearth, casually helping himself to yesterday's leftover dinner, was the handsome fae. The very one who had enchanted her, who had promised a meeting, and then had left her waiting while he committed this unspeakable act. His eyes, once so captivating, now held a cold, malevolent amusement. The betrayal was a fresh, searing wound on top of unimaginable grief.
 
@@ -39,3 +39,6 @@ Given that Ahrie was still a young fairy brimming with magical talent, her inabi
 
 ## Player notes
 ### From [[Chapter 1 - A Friend in Need|Chapter 1]] of Waterdeep: Dragon Heist
+
+## DM Notes
+- A bonfire festival where [[The Handsome Fae (AKA Moonbean)]] murdered her entire family

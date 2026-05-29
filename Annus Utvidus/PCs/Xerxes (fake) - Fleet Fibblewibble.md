@@ -33,3 +33,4 @@ A Tiefling is a sign. Physical evidence of a forbidden Pact. My parents could be
 ##### Other notes
 - Volo approaches us w/ an opportunity, find [[Floon Blagmaar|Floon]], he lost him after a night out. Handsome human male in princely garb, last seen in the [[Harbor Ward]] at [[The Thirsty Goat]]
 - Floon met [[Renaer Neverember]] and left the tavern, five men followed them out, they frequent a warehouse w/ a snake symbol on the door
+- [[The Black Dragon flies over the Lake]] - [[Corwin FibbleWibble]] took Xerxes to [[Lightsinger Theater]]
