@@ -1,0 +1,1 @@
+[[Betsy Patchman]]'s mother, the one who convinced Betsy to collapse and fake a seizure where 

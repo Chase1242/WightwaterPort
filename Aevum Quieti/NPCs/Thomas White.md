@@ -1,0 +1,1 @@
+The husband and abuser of [[Sylvia White]]

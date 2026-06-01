@@ -1,0 +1,1 @@
+The new born goddess as of Sunday, June 22nd, 1692, gives [[Sylvia White]] the power to protect herself from [[Thomas White]]

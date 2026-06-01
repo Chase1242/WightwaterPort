@@ -1,0 +1,1 @@
+Starting town of 1-shot/ campaign

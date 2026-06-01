@@ -1,0 +1,2 @@
+The power of the ancient gods coalesced into one being is too much power concentrated
+This god dies, as the last power of other gods is absorbed, and the splinters of the Old God lace through the world, giving mortals access to magic. Mortals would call this day Sunday, June 22nd, 1692

@@ -1,0 +1,3 @@
+- The holy book, almost equivalent to the Bible
+- The Szent is a a standardized book, with as many earlier copies sought out and burnt
+	- Done to hide what the religion once was

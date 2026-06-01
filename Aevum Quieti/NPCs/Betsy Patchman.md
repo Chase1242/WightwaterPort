@@ -1,0 +1,1 @@
+A 12 year-old, who, in the Temple of God, collapsed and seized upon the ground on Friday, June 20th, 1692
