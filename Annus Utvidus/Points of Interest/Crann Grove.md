@@ -1,0 +1,38 @@
+# Names
+- Ash - Head bitch
+	- Serves [[Ran Dal, Thorson, Prince of the Dawn and Spring]] and the forest
+	- Wants the health of all else, willing to even sac himself for it
+	- Stands loyally behind his members
+	- Satyr
+	- 65 years old
+	- Founded the Crann Grove
+- Sycamore
+	- Massive schlong
+	- 7 feet tall
+	- Wearing a leaf only
+	- Does what he is told
+	- Human
+	- 23 years old
+- Scots
+	- Plant of [[The Handsome Fae (AKA Moonbean)]]
+	- Planted forged evidence of  the misdeeds of the Woodkin druids
+		- A letter signed by Gilm that they were going to ramp up production regardless of the nature around them
+	- Male
+	- Human
+	- 35 years old
+	- Successful persuasion/ intimidation roll can cause a slip to say something like he put the letter somewhere
+	- Didn't want all these people to die
+	- Will try to attack the closest Archdruid/ run away in desperation
+	- [Succubus](https://dr-eigenvalue.github.io/bestiary/creature/succubus-incubus)
+- Silbirt
+	- Offer longstrider to the party
+- Hazel
+	- Offer a sending stone to the party to communicate with the Druids
+- Holly
+	- Goodberries
+- Alder
+	- Scrolls of barkskin
+- Sessile
+	- Friend to animals
+		- Attune
+		- Gives proficiency in animal handling/ persuasion against fey checks
