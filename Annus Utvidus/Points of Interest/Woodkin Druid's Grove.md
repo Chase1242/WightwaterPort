@@ -4,3 +4,41 @@
 ## Deities
 - [[Meareth, the Forest's Touch]]
 - [Silvanus](https://forgottenrealms.fandom.com/wiki/Silvanus)
+## Names
+- Gilm (head bitch)
+	- Serves Meareth and the forest
+	- Wants the health of all else, willing to even sac himself for it
+	- Stands loyally behind his members
+	- Elf
+	- 700 years old
+	- Moved to this grove at the dawn of [[Wightwater]]
+- Balan
+	- Wants to be Archdruid
+	- Advocates for sac of Gilm if offered
+	- Forest Gnome
+	- Secretly in love with Rabinna
+	- Male
+	- Halfling
+- Llemisa
+	- Knows that the forest has had this disease for longer than expected
+		- Was dismissed 12 years ago
+	- Has been secretly researching the disease
+	- Knows that there is nefarious magics afoot
+	- Burning passion to solve the issue
+	- Readily talks with party
+	- Female
+	- Fairy
+- Rabinna
+	- Enjoys Balans company as a friend
+	- New to the grove
+	- Female
+	- Tortle
+	- Young
+- Aerin
+	- Has been searching for the [[Oracle's Consult]]
+	- Has noticed sparsity of mushroom
+	- Female
+	- Tiefling (Asmodeus)
+- Sven
+	- Searching for a reindeer companion
+	- Will offer goodberries for the trip
