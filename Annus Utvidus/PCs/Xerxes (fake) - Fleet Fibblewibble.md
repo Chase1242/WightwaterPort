@@ -17,6 +17,7 @@ A Tiefling is a sign. Physical evidence of a forbidden Pact. My parents could be
 - Father is [[Corwin FibbleWibble]]
 - Divination magic is obscured on Fleet due to the [[Cassalanter's]] putting an anti-divination magic screen on him
 	- Allowed simple facts to be found (birthday, and other stuff like that), but not parents or anything else
+- Ardack Sillenfoil - in the theater group, douchebag, half elf
 
 ## Player notes
 ### From [[Chapter 1 - A Friend in Need|Chapter 1]] of Waterdeep: Dragon Heist

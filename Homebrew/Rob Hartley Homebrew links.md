@@ -11,4 +11,3 @@
 [Massive Damage](https://homebrewery.naturalcrit.com/share/Byb2RoSkCx)
 [Traps](https://homebrewery.naturalcrit.com/share/urFmg90iWmO_)
 [New Player](https://homebrewery.naturalcrit.com/share/rJqyM6zBX)
-

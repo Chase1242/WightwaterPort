@@ -42,3 +42,11 @@ Given that Ahrie was still a young fairy brimming with magical talent, her inabi
 
 ## DM Notes
 - A bonfire festival where [[The Handsome Fae (AKA Moonbean)]] murdered her entire family
+- Cat piss Maddy, serving not a good kind of cunt, mean girl/ fairy int he village, good at hunting with the boys, good at archery
+	- Made it her personality - strong man women energy - tomboy/masc and fairest
+	- Pick me
+	- trad wife
+	- Ahrie Ola was bullied, Maddy was her competitor
+	- Cat piss maddy is not true to herself
+		- Faker
+	- Ahrie Ola wants to be the center of competition
