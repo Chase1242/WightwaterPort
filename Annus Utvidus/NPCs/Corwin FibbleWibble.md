@@ -16,7 +16,7 @@ Corwin is [[Xerxes (fake) - Fleet Fibblewibble|Fleet's]] adoptive father.
 	- Fortune in [[Wightwater]] is somewhat hard to come by, as becoming a noble family is quite the process, establishing a generational wealth is something few ever do.
 	- But a couple families, on the decline as previously mentioned (the [[Cassalanter's]] and the [[Onyxcutter|Onyxcutter's]])
 	- Investigation into the two families produced some ill-begotten gains by the Onyxcutter's, but most of the Cassalanter's resurgence was mysteriously gained, with no real explanation as to why. 
-		- Corwin questioned a couple people related to the Cassalanter's and decided that it was probable to be the Cassalanter's due to the weird resurgence of the family - timed with the approximate age of Fleet, was almost enough of an indication. It was unlikely that the commonfolk really got into dealings with the devils, as evidenced by the scarcity of the tieflingfolk
+		- Corwin questioned a couple people related to the Cassalanter's and decided that it was probable to be the Cassalanter's due to the weird resurgence of the family - timed with the approximate age of Fleet, was almost enough of an indication. It was unlikely that the commonfolk really got into dealings with the devils, as evidenced by the scarcity of the tiefling-folk
 ## Larger relation to the story
 - Two real options to tie Corwin into the story
 - A) Kill him off via THF - he was getting too close to the truth about [[High Mage Radelia Qinqen]] and THF was dispatched to silence him

@@ -89,7 +89,7 @@ ___
 - [[The Boastful Bard ]]
 - Don’t Go Inn 
 - The Drowning Cat 
-- The Merl Inn 
+- [[The Merl Inn]] 
 - The Duke’s Knickers 
 - The Belching Beholder 
 - The Come and Go 

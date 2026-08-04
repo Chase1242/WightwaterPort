@@ -103,3 +103,6 @@ Their friendship was truly a balance of chaos and grounding, just like the very 
 ## DM Notes
 - Brindle follows believes in the two Archfey, Titania and and Autumn Prince (father of decay/fungus)
 - Got into the ale as a "child" and the other youngins ostracized her
+- Foraging trade sessions
+	- Every season as the seasonal fruits and vegetables came and went
+	- Rocky relationship with parents because she licked mushrooms

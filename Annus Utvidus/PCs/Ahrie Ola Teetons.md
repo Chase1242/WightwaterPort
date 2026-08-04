@@ -42,3 +42,7 @@ Given that Ahrie was still a young fairy brimming with magical talent, her inabi
 
 ## DM Notes
 - A bonfire festival where [[The Handsome Fae (AKA Moonbean)]] murdered her entire family
+- Family of druids 
+	- "Mastered" animals
+	- Allowed them to change into animals
+- Her family allowed her to learn new animals

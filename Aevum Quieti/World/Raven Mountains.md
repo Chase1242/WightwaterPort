@@ -1,0 +1,6 @@
+- Native peoples named this the "Raven Mountain" because one of their local deities (people in this general area *generally* have the same religious ideas but with small variations)
+- The story goes that [[Raven]] was tired of flying, and in a desperate attempt to not land in the acidic ocean, called upon her friend, [[Lobster]] to help
+	- Lobster knew time was short and quickly dug in the ground, releasing lava, creating new earth
+	- In Raven's desperation to land, she cooled the land with strong wingbeats
+		- Each downward stroke created valleys, and each upward beat created a mountain
+	- To show her thanks, she took water in her beak and transported it to the mountains, creating beautiful, year-round snow-capped peaks that feed the numerous rivers of the region
