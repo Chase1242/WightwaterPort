@@ -46,3 +46,5 @@ When she played the flute, you could *almost see* the story she was trying to te
 ## DM Notes
 - Her Nini bequeathed the fiddle to her
 - Satyr Thanksgiving on the anniversary of [[Zufosu|Zufosu's]] return home
+- Co-instrumentalist, sort of rivals ish for first fiddle in orchestral stuff, mean, a la Sharpay in High School Musical, Brenda, human, kinda a bully at the time Navreyi was not good at conflict management
+

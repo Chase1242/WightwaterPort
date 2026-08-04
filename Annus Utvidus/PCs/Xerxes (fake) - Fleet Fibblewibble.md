@@ -22,6 +22,8 @@ A Tiefling is a sign. Physical evidence of a forbidden Pact. My parents could be
 	- rocking chair
 	- table with ash tray
 	- Brown stone house
+- Ardack Sillenfoil - in the theater group, douchebag, half elf
+
 
 ## Player notes
 ### From [[Chapter 1 - A Friend in Need|Chapter 1]] of Waterdeep: Dragon Heist

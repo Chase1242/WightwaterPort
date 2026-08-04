@@ -106,3 +106,8 @@ Their friendship was truly a balance of chaos and grounding, just like the very 
 - Foraging trade sessions
 	- Every season as the seasonal fruits and vegetables came and went
 	- Rocky relationship with parents because she licked mushrooms
+- Chad Bronwick
+	- Hated the other forest gnomes
+	- Wanted to deforest
+	- Got into a terrible accident and died
+
