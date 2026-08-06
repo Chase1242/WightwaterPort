@@ -66,6 +66,31 @@ date: August 8th, 2026
 - When you make an action roll, you can move somewhere within your close range (up to 30 ft ish)
 	- Has to be plausible for you to reach there
 - If you want to move in the far to very far range, you need to roll an Agility roll
+#### Downtime and rests
+- 3 short rests until a long rest is required
+- Short rests
+	- Tend to wounds
+	- Clear stress
+	- Repair armor
+	- Prepare
+- Long rest
+	- Tend to all wounds
+	- Clear all stress
+	- Repair all armor
+	- Prepare
+	- Work on a project
+#### Death
+- Blaze of Glory
+	- Critically succeed on an action roll (at DMs discretion)
+- Avoid death
+	- You character falls unconscious but doesn't die. You and the DM (me) work together to describe how the situation worsens. Your character can't act or move while unconscious and they can't be targeted or attacked. You return to consciousness when you clear a hit point or long rest. You roll your hope die and if the result is less than or equal to your level, you get a scar
+- Risk it all
+	- Roll your duality dice (2d12)
+	- If your hope die is greater than your fear die, clear a number of hit points and stress equal to the result on the hope die (i.e., a 6 on the hope die clears 3 stress and 3 hit points, maybe)
+	- You die if the fear die is higher
+	- A critical success clears all stress and hit points
+#### Other
+- I encourage (but will never require) you to go through chapters 1 and 2 of the book. They describe everything I just did but better and more thoroughly. It shouldn't take a terribly long time, and you don't have to memorize every detail
 ### What I want to do
 - A short 2-5 session story that we can either continue or throw away. After the main story is finished, I would maybe run a monster-of-the-week with a larger overarching story.
 - What would be your overarching goal for this campaign? What would be the best ending for you?
@@ -92,3 +117,9 @@ Adventurous, Cozy, Dramatic, Funny, Goofy, Gritty, Intimate, Lighthearted, Polit
 - Ask them questions/ build the world with them
 - The natives of the area are ***loosely*** based on certain native groups in eastern North America, with *some* mythology loosely based on some of that peoples mythology. Is there anything you would like to see featured in their cultures? Mythology? 
 - What, if anything, do we want to change in the existing setting we’re using to better fit the story we’re telling?
+## Intro scene
+Char1, 2 , and 3 are enjoying the peacefulness of the woods, the smell of fresh dirt and rain hanging in the air. Sunlight filters through the canopy of the forest, casting both a shadows that sway with the soft wind ruffling the hair of our characters. The discussion had quieted after discussing the recent problems, but a warm feeling settled in around the small fire, having eaten a small meal for lunch and resting their feet. Beyond the feeling of contentedness, there was an energy charging the air, barely noticeable, but giving each of you a pep in your step. This spot was chosen for the odd, perfect circle of mushrooms, and it being no better than another spot off the main road.
+
+Each of you look up and west before anything is truly discernible, no sound or smell drew your attention, but a gut feeling that something was coming. Then, you heard it, softly at first, but growing louder as they approached. Footsteps; heavy but soft, barely making a noise, until a large figure bursts through the a couple ferns and bushes, followed by another, smaller figure. The big one, in their surprise and hurry at seeing you, trips over a pack, tumbling into the ground, bringing the small one on their trail to the ground as well. Each are flustered, breathing hard from a long, fast run. Before anyone has a chance to say anything, a howl is heard some distance a way, and a big rumbling is quickly approaching the characters, judging from the heavy footsteps, different from the ones just a bit ago.
+
+A bear lumbers in, followed not too far behind by a couple wolves, moving to surround the lot of you. Giant rats emerge from under the brush, chittering angrily. And, much to your dismay, two frogs ALSO jump through the underbrush, but like the rats, are much, MUCH larger than anyone has ever seen.
