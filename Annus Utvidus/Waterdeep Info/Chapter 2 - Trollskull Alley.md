@@ -69,7 +69,7 @@
 - Davil offers membership in the faction to interested characters, then assigns them their first mission (see the Zhentarim Missions table). Subsequent mission briefings are written on scrolls and delivered by flying snakes.
 - [[Tashlyn Yafeera]]
 - After the characters complete two missions for Davil, he is arrested by the City Watch and held in [[Oria Castle]] while he waits to be questioned by the Council of Wightwater about the Black Network's operations in the city. The characters continue to receive missions, but they come from Tashlyn Yafeera (see appendix B). Characters first become aware of this change when they receive their next mission briefing, since it's written in a different hand.
-- If the characters want lo speak with Tashlyn direclty, Yagra can arrange a meeting in [[The Boastful Bard]] or some other quiet place. By the time the characters see her, Tashlyn has learned the following information:
+- If the characters want lo speak with Tashlyn directly, Yagra can arrange a meeting in [[The Boastful Bard]] or some other quiet place. By the time the characters see her, Tashlyn has learned the following information:
 	- The rumored leader of the renegade Zhent faction is [[Urstul Floxin]], a known Black Network assassin.
 	- A warrant has been issued for Urstul's arrest, but his current whereabouts are unknown. Even magical scrying has failed to reveal his location.
 	- The botched kidnapping of Renaer Neverember won't sit well with Urstul. He might try again. (Tashlyn doesn't actually believe this, but she knows that Renaer has ties to the Harpers and might share information of interest with the characters.)

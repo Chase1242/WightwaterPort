@@ -534,3 +534,23 @@ Take 5 days to level up to level 5
 		- Hairy
 	- They talked about how this druid grove is the cause of the disease of the forest
 	- Et fini
+### Since
+- Gather stuff for vault
+- Attire as they step in
+	- Xerxes 
+		- Black with red pinstriped tuxedo, polished black dress shoes, Ruby tie clip and cuff links
+		- Gold horn caps
+	- Brindle
+		- Cloak with grandma's church dress
+	- Navreyi
+		- Simple, nicely made, deep purple gown, contrasted with the gold fiddle, posh and appropriate, tasteful cleavage, low back
+		- with a scarf-y shawl
+		- Hooves and horns polished
+		- teardrop gold dangling from horns
+	- Ahrie Ola
+		- Takes butler's hand
+		- Loose top, tapers in, tight around the stomach/ bodice area, high slit, leaf dress that resembles green swallowtail butterfly
+		- boobs pushed up to the nine yards
+		- Curly hair
+		- Everything is bouncy
+		- Dew-y water crystal necklaces

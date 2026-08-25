@@ -1,0 +1,1 @@
+- An explorer that was the first from the [[Holy Empire]] to cross the [[Ravess Ocean]] hundreds of years ago

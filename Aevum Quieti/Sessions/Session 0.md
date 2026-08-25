@@ -95,10 +95,23 @@ date: August 8th, 2026
 - A short 2-5 session story that we can either continue or throw away. After the main story is finished, I would maybe run a monster-of-the-week with a larger overarching story.
 - What would be your overarching goal for this campaign? What would be the best ending for you?
 	- Jaiden
+		- longer if we really like
 	- Nora
+		- it depends on how everyone is feeling
+		- rp heavy = longer
 	- Ireland
+		- ditto
+		- good puzzle room
+			- good riddle
+			- zelda kinda puzzles?
+			- Lorroakan's tower puzzle - riddle in addition to task
 	- Jill
+		- go with the flow
+		- excited for the story
 	- Hayley
+		- longerrrrrrrr
+		- adventure
+		- good time
 ## CATS
 ### Concept
 - Big picture pitch:
