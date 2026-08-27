@@ -7,3 +7,7 @@
 Let Ireland and Nora respond/ rp a little
 
 >Gale says goodbye, traveling not far, catching scents of a small fire, and surrounds a tree ringed by a perfect circle of red mushrooms with white dots. A person with a small, powerful build, a person with broad shoulders that obviously works out, and a slender person, each handling a different task to set up camp for lunch. What does it look like as you inspect this plant? What are you wearing? What are you talking about as you set up?
+
+https://freshcutgrass.app/encounter-manager
+
+## 
