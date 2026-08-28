@@ -1,1 +1,2 @@
-[[Betsy Patchman]]'s mother, the one who convinced Betsy to collapse and fake a seizure where 
+- [[Betsy Patchman]]'s mother, the one who convinced Betsy to collapse and fake a seizure that implicated [[Sylvia White]]
+- Partner Aspen Patchman passed a couple years ago

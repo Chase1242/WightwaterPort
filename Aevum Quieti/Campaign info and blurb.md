@@ -167,7 +167,7 @@ You only hear about the crazy witch vaguely, as you are a couple hour walk away,
 
 Days after the events of the hanging of Sylvia, things in [[Quakewood]] started becoming weird. The book club you are in (Show-ers and Growers) whisper about it, as the wailing wind flows by. Some say they hear Sylvia's laugh upon the wind, some say her cries. Martha's plants flowered and shriveled in the course of the day. Nancy noticed her house, even though she keeps it tidy, was in perfect condition. Francie was jailed on accusations of witchcraft after her husbands arm was crushed by an unseen force he claims. He claims Francie is a part of Sylvia's group of witches. The clouds and wind call to some, the moon to others, and the sun even to others.
 
-The Vezetuu have been called back to New Eger City, the main place for the religious leaders on the new continent. The winds of change erode what once was, revealing what will be. The Builders have been unsettled, and are meeting about new rules to put in place until things settle down.
+The Vezetuu have been called back to [[New Eger City]], the main place for the religious leaders on the new continent. The winds of change erode what once was, revealing what will be. The Builders have been unsettled, and are meeting about new rules to put in place until things settle down.
 
 What's happening on the new continent, and what truly happened with Sylvia?
 
