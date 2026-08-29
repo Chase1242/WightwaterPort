@@ -1,0 +1,34 @@
+# Quest
+## Plot points
+- Fight in woods with animals that try to protect [[Sylvia's Diary]] 
+- Once they get the diary, it's magically locked except the first passage
+- Go to [[Melas]] where an [[Apple Festival]] is occurring, said to have farm games for both Growers and Builders
+- Learn some lies that are directly contradicted via the diary
+- Maybe some villagers
+	- [Outpost Town](https://app.demiplane.com/nexus/daggerheart/sources/core/environments)/Local tavern
+- Games
+	- Horseshoes
+	- Races
+		- Countdown dice until victory and defeat  
+	- Strongman competition 
+		- Pick up biggest rocks
+	- Arm wrestling
+	- Capture the flag
+		- Team game
+- Among these games, rumors?
+	- See tavern environment
+- [[Elizabeth Reddington]] and [[Jebediah Obediahiah]] share conflicting stories about [[Sylvia White]]
+	- Elizabeth shares:
+		- Shares how she was outcast and often came to Elizabeth for treatment
+		- Told her of the abuse, but asked to keep it quiet
+	- Jebediah shares:
+		- She self-isolated
+		- Was clumsy
+		- Was a failed Grower that couldn't keep a field of crops alive for anything
+			- including, but not limited to, the death of her kids
+- The missing villagers then attack the village
+- Each of them say something akin to "Sylvia will take her revenge soon"
+- The diary reveals Sylvia's location
+	- Dungeon crawl that takes the characters through her journey
+	- Each room takes a chunk of her force away until they can fight her
+- Choice to raze the village to the ground or kill sylvia
