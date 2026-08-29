@@ -1,0 +1,12 @@
+- One of the two roles in societies
+- Analogous to men's role at that time
+	- Only ones allowed to be leaders in most places
+	- Only ones allowed to be in church leadership too
+- Handles the "building" of society
+	- The farming equipment
+	- Houses
+	- Roads
+	- Roles with money are deemed to be "builder-ly"
+		- As well as scholar-ly
+	- Repairing
+		- [[Grower]]s handle most of the house repairs, as the house is the "Grower's" domain

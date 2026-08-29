@@ -1,0 +1,1 @@
+A tragedy in any other world, the start of a new norm in this world

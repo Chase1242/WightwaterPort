@@ -1,0 +1,5 @@
+- A native people who believe in the [[Lobster]] and [[Raven]]
+- Semi-nomadic, dependent on signs from Raven
+- Last names are named after their nomadic gods, and depend on the spirit of the animal that blesses the child
+	- There is a ritual where they leave the baby by a fire for a whole night and in the morning, a charcoal painting of the spirit of that protected the babe on it's forehead
+- First name is related to food?

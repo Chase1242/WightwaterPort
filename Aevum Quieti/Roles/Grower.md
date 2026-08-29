@@ -1,0 +1,6 @@
+- Second role in society of the [[Holy Empire]]
+- Analogous to women
+- Handles the growth of society
+	- Farming
+	- Child-rearing
+	- House repairs
