@@ -13,3 +13,8 @@
 ## Connections
 - Was friends with [[Esther Smith]], a builder that has recently disappeared
 - Drank somewhat often with [[Thomas White]]
+## Motivations
+- Just likes building things
+- Gnarled and near the end of life, is a half-alcoholic
+## Voice
+- Country ish
