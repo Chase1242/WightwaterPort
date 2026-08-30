@@ -1,0 +1,5 @@
+- 1st place gets 1d12+4 handfuls
+- 2nd place gets 1d6+2 handfuls of gold
+- 3rd gets 1 handful
+- 1 handful to enter
+- teams of 2

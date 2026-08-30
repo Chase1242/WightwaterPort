@@ -16,6 +16,7 @@ Let Ireland and Nora respond/ rp a little
 
 >Gale says goodbye, traveling not far, catching scents of a small fire, and surrounds a tree ringed by a perfect circle of red mushrooms with white dots. A person with a small, powerful build, a person with broad shoulders that obviously works out, and a slender person, each handling a different task to set up camp for lunch. What does it look like as you inspect this plant? What are you wearing? What are you talking about as you set up?
 
+https://freshcutgrass.app/encounter-manager
 ## Encounter
 https://freshcutgrass.app/encounter-manager
 - `Instinct Roll: Difficulty `
@@ -25,3 +26,5 @@ https://freshcutgrass.app/encounter-manager
 	- Failure with Fear: A bear roars not too far off, the sound reverberating off the trees, and as your heads whip up from the bush, you notice a bear charging through the underbrush. As you turn to run you see some wolves have cut off a path of retreat.
 Ensue fight
 
+Go to [[Melas]]
+Play games/ talk to villagers

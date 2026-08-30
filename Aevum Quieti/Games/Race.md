@@ -1,0 +1,9 @@
+- Countdown:
+	- 4 for easy
+	- 3 for medium
+	- 2 for hard
+- Like, 100 meters
+- 1 handful to enter
+-  1st place gets 1d12+3 handfuls
+- 2nd gets 1d6+2 handfuls
+- 3rd gets 1 handful

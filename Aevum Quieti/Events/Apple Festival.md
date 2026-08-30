@@ -1,0 +1,3 @@
+- Thrown to honor the first growth of apples
+- Taken from the [[Eekorchra]] and [[Pilalu]] peoples
+- A day for honoring the spirits of the land that helped grow the berries and crops and apples

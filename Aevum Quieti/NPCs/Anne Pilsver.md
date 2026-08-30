@@ -7,3 +7,5 @@
 - Not valley girl, but definitely a gossip
 - A proponent of spreading lies about "witches"
 - A "devout" [[Vallas]]
+## Motive
+- Seeks to be in positions of power, controlling

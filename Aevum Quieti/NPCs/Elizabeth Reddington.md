@@ -1,3 +1,4 @@
+# Elizabeth Reddington
 The only person to show [[Sylvia White]] even a scrap of sympathy
 The herbalist/ doctor of the village
 - Treated Sylvia for her miscarriages and bruises Thomas imparted upon her
@@ -9,3 +10,9 @@ The herbalist/ doctor of the village
 	- Knows Veronica was up to something with the Betsy incident
 	- Also knows that Veronica and [[Preston Downkip|Tanar Preston]] were close
 		- Not to what extent
+## Motivations
+- An underground railroad type that helps Growers in distress
+- Was unable to act quick enough for Sylvia
+- Supports Growers rights to exist
+## Voice
+- Low, slow, and scratchy

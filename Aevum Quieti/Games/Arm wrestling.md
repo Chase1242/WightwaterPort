@@ -1,0 +1,9 @@
+- Countdown die:
+	- 6 for easy
+	- 4 for medium
+	- 2 for hard
+- Tournament style
+- 1st place gets 1d12+4 handfuls
+- 2nd gets 1d6+2 handfuls
+- 3rd gets 1 handful
+- 1 handful registration
