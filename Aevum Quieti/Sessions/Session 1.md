@@ -24,3 +24,4 @@ https://freshcutgrass.app/encounter-manager
 	- Failure with Hope: A bear roars not too far off, the sound reverberating off the trees, and as your heads whip up from the bush, you notice a bear charging through the underbrush. As you turn to run you see some wolves moving forward to cut off a path of retreat.
 	- Failure with Fear: A bear roars not too far off, the sound reverberating off the trees, and as your heads whip up from the bush, you notice a bear charging through the underbrush. As you turn to run you see some wolves have cut off a path of retreat.
 Ensue fight
+
