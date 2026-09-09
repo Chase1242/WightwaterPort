@@ -1,0 +1,5 @@
+- Huld - moon, Hungarian
+- Kuu - moon, Estonian
+- Mond - moon, German
+- Fengari - moon, Greek
+- Bulan - moon, Pangasinan
